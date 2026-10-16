@@ -1,19 +1,26 @@
 # Vertical video edits
 
-## Finished 9:16 edit
+## Latest: Editorial v2
 
-**[Open the finished video folder](edits/voice-agents-9x16/)**
+**[Open the new orange / black / cream editorial edit](edits/voice-agents-editorial-v2/)**
 
-- [Watch / download the MP4](edits/voice-agents-9x16/voice-agents-9x16.mp4)
-- [Poster](edits/voice-agents-9x16/poster.jpg)
-- [Speech captions](edits/voice-agents-9x16/captions.srt)
+- [Watch / download v2 MP4](edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4)
+- [V2 poster](edits/voice-agents-editorial-v2/poster.jpg)
+- [V2 speech captions](edits/voice-agents-editorial-v2/captions.srt)
 
-1080 × 1920 · 9:16 · 30 fps · 21.37 seconds · H.264 / AAC
+## Both versions
 
-The original speech is preserved in order and timing. The latest supplied IShowSpeed reference informed the red/lime type, impact crops, pacing and payoff treatment; no reference footage or audio was reused.
+| Version | Style | Files |
+| --- | --- | --- |
+| 1 | Red/lime, bold italic captions, punch-ins, voice-AI diagrams | [Original edit](edits/voice-agents-9x16/) |
+| 2 | Orange/black/cream editorial, serif captions, grid quote reveal, rounded/circular video panels | [Editorial v2](edits/voice-agents-editorial-v2/) |
+
+Both versions: 1080 × 1920 · 9:16 · 30 fps · 21.37 seconds · H.264 / AAC. The first version is preserved unchanged.
 
 Source: https://www.youtube.com/watch?v=FcvFNbcCL98
 
-The source was 640 × 360; the final is an upscale rather than native 1080p footage. Full delivery notes are inside the output folder.
+The original speech is retained in its original order and timing. References inform design only; no reference footage, branding or audio has been reused.
+
+The raw footage was 640 × 360, so these are upscaled exports rather than native 1080p source detail. Full notes are in each folder.
 
 This repository is public. Do not upload credentials or private material.
