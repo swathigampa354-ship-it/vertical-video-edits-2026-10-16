@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+  "visibility": "public",
+  "commit": "fec3027a03a64c2c3f56995a1bb445db7d3b84e6",
+  "folder_url": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/tree/main/edits/voice-agents-morph-v3",
+  "video_url": "https://raw.githubusercontent.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/main/edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4",
+  "v1AndV2Preserved": true,
+  "publicMediaHttpStatus": 206,
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 3101
+    },
+    {
+      "name": "captions.srt",
+      "bytes": 1098
+    },
+    {
+      "name": "poster.jpg",
+      "bytes": 188215
+    },
+    {
+      "name": "voice-agents-morph-v3.mp4",
+      "bytes": 5902296
+    }
+  ]
+}

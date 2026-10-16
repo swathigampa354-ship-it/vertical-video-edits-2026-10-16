@@ -1,0 +1,3 @@
+# Preserve exact third-party license evidence, including its original trailing space.
+# This exception is limited to copied OFL texts; authored docs/code remain checked.
+references/source-snapshot/assets/fonts/*OFL.txt -whitespace

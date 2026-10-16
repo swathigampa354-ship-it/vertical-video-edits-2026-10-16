@@ -1,0 +1,50 @@
+{
+  "capturedAtUtc": "2026-10-16T14:17:11.844443+00:00",
+  "method": "OpenCV full video decode + SHA-256 + Git blob comparison; no media encoding",
+  "result": "PASS",
+  "videos": [
+    {
+      "version": "V1",
+      "path": "edits/voice-agents-9x16/voice-agents-9x16.mp4",
+      "bytes": 10688724,
+      "sha256": "91a6133425a322dc72ae57741c8b6dc7a1505e91d70a3b4281e4a7166f9bda88",
+      "gitBlobMatchesInitialRemote": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "metadataFrames": 641,
+      "decodedFrames": 641,
+      "fullVideoDecodePassed": true,
+      "audioReanalysedNow": false
+    },
+    {
+      "version": "V2",
+      "path": "edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4",
+      "bytes": 4415601,
+      "sha256": "3bb67faa8dca609de1d8ffed3f19e84d14a0ed7721609a0d775ee78d54eebbc3",
+      "gitBlobMatchesInitialRemote": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "metadataFrames": 641,
+      "decodedFrames": 641,
+      "fullVideoDecodePassed": true,
+      "audioReanalysedNow": false
+    },
+    {
+      "version": "V3",
+      "path": "edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4",
+      "bytes": 5902296,
+      "sha256": "1257620122fe793eb95985f128d4f3be455baeb874795a1ef0860628c931036d",
+      "gitBlobMatchesInitialRemote": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "metadataFrames": 1282,
+      "decodedFrames": 1282,
+      "fullVideoDecodePassed": true,
+      "audioReanalysedNow": false
+    }
+  ],
+  "audioNote": "Audio alignment/loudness were measured during historical export. This read-only check does not reanalyse audio; matching file bytes preserve linkage to the historical reports."
+}

@@ -1,0 +1,132 @@
+{
+  "repository": "swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+  "url": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+  "clone_url": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16.git",
+  "default_branch": "main",
+  "private": false,
+  "visibility": "public",
+  "head": "fec3027a03a64c2c3f56995a1bb445db7d3b84e6",
+  "tree": "a59712461f651a3143a1b4affa14841deae54bb3",
+  "tracked_files": [
+    {
+      "path": "README.md",
+      "sha": "40779d9a2b606dc68600e163920993e79f01c334",
+      "bytes": 1597
+    },
+    {
+      "path": "assets/README.md",
+      "sha": "9ee469b7230861a526f31cfb41e0f330ef4d980c",
+      "bytes": 165
+    },
+    {
+      "path": "edits/voice-agents-9x16/README.md",
+      "sha": "e85267cf006aad5bb6854d40f8966b7cedd2f83a",
+      "bytes": 1454
+    },
+    {
+      "path": "edits/voice-agents-9x16/captions.srt",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "bytes": 1098
+    },
+    {
+      "path": "edits/voice-agents-9x16/poster.jpg",
+      "sha": "a01826ee05b525bd04953b047048d5259c0a3127",
+      "bytes": 238460
+    },
+    {
+      "path": "edits/voice-agents-9x16/voice-agents-9x16.mp4",
+      "sha": "081a6cd2b8bf4cc42110b82b4163e3fd35b3f52e",
+      "bytes": 10688724
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/README.md",
+      "sha": "902e44f72fe5f46bd8aca6fbf4fc4860a603ffa9",
+      "bytes": 1658
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/captions.srt",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "bytes": 1098
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/poster.jpg",
+      "sha": "87989dc42fb2cf2ad52c006b483ce8f1514509ea",
+      "bytes": 189748
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4",
+      "sha": "25ca8657ced576e7594d692d2d87292fc4225d90",
+      "bytes": 4415601
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/README.md",
+      "sha": "e39232983286b12061ca9101e78120c69cee5b27",
+      "bytes": 3101
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/captions.srt",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "bytes": 1098
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/poster.jpg",
+      "sha": "d0fb5d94e757d151d3ade49f25774b2ed6848032",
+      "bytes": 188215
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4",
+      "sha": "f133c3e3a970ddac810861e6ff5838be3922b0c1",
+      "bytes": 5902296
+    }
+  ],
+  "commits": [
+    {
+      "sha": "fec3027a03a64c2c3f56995a1bb445db7d3b84e6",
+      "committedAtUtc": "2026-10-16T12:51:36Z",
+      "message": "Add 60fps single-container Morph v3 inspired by motion gallery; preserve earlier edits",
+      "parents": [
+        "695bb2d7a1a491c09cd59bc9056b89ded5a72475"
+      ]
+    },
+    {
+      "sha": "695bb2d7a1a491c09cd59bc9056b89ded5a72475",
+      "committedAtUtc": "2026-10-16T12:31:19Z",
+      "message": "Add separate orange/black editorial v2; preserve original edit",
+      "parents": [
+        "259322a84466717696742bed27bb8d7d4c3b7149"
+      ]
+    },
+    {
+      "sha": "259322a84466717696742bed27bb8d7d4c3b7149",
+      "committedAtUtc": "2026-10-16T12:15:10Z",
+      "message": "Deliver finished 9:16 voice agents edit, poster and captions",
+      "parents": [
+        "3102eb0bfddfb6bd2c02f6e52f8f925a267cb07c"
+      ]
+    },
+    {
+      "sha": "3102eb0bfddfb6bd2c02f6e52f8f925a267cb07c",
+      "committedAtUtc": "2026-10-16T11:35:40Z",
+      "message": "Prepare edits/voice-agents-9x16/.gitkeep",
+      "parents": [
+        "87d9e1d845510af15146c2ce80db318d961a4e29"
+      ]
+    },
+    {
+      "sha": "87d9e1d845510af15146c2ce80db318d961a4e29",
+      "committedAtUtc": "2026-10-16T11:35:39Z",
+      "message": "Prepare assets/README.md",
+      "parents": [
+        "03f17886ddc2a546ec50f5a36533e29f1ce94a44"
+      ]
+    },
+    {
+      "sha": "03f17886ddc2a546ec50f5a36533e29f1ce94a44",
+      "committedAtUtc": "2026-10-16T11:35:38Z",
+      "message": "Prepare README.md",
+      "parents": []
+    }
+  ],
+  "initialLocalGitMetadataPresent": false,
+  "trackedRootGitignorePresent": false
+}

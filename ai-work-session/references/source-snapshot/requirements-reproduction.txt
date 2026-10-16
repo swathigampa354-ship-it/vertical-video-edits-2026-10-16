@@ -1,0 +1,13 @@
+# Direct imports for an authorized future reproduction.
+# This is NOT a validated historical lockfile; versions must be resolved/tested.
+numpy
+Pillow
+opencv-python
+scipy
+soundfile
+imageio-ffmpeg
+requests
+# Needed only if retranscribing rather than reusing the supplied transcript:
+faster-whisper
+# Optional only for re-extracting the archived original PDF:
+PyMuPDF

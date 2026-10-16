@@ -1,0 +1,73 @@
+{
+  "capturedAtUtc": "2026-10-16T14:21:30.189543+00:00",
+  "result": "PASS",
+  "archiveFileCount": 87,
+  "checks": {
+    "requiredFiles": {
+      "expected": 13,
+      "missing": []
+    },
+    "skill": {
+      "format": "Agent Skills YAML + Markdown",
+      "name": "ai-work-session",
+      "lines": 119,
+      "valid": true,
+      "nativeClientRegistrationTested": false
+    },
+    "localLinks": {
+      "checked": 112,
+      "broken": [],
+      "externalUrls": "Not exhaustively fetched; historical/fresh HTTP evidence recorded separately."
+    },
+    "pythonAst": {
+      "checked": 13,
+      "files": [
+        "references/scripts/capture_evidence.py",
+        "references/scripts/git_askpass.py",
+        "references/scripts/update_file_change_log.py",
+        "references/scripts/update_verification_report.py",
+        "references/scripts/validate_archive.py",
+        "references/scripts/verify_media.py",
+        "references/source-snapshot/source/audio.py",
+        "references/source-snapshot/source/audio_editorial_v2.py",
+        "references/source-snapshot/source/audio_morph_v3.py",
+        "references/source-snapshot/source/render.py",
+        "references/source-snapshot/source/render_editorial_v2.py",
+        "references/source-snapshot/source/render_morph_v3.py",
+        "references/source-snapshot/source/transcribe.py"
+      ],
+      "executesCode": false
+    },
+    "json": {
+      "parsed": 21
+    },
+    "exactCopies": {
+      "checked": 53,
+      "mismatches": []
+    },
+    "originalWorkspace": {
+      "checked": 131,
+      "changed": [],
+      "missing": [],
+      "strict": true
+    },
+    "secretScan": {
+      "filesScanned": 87,
+      "knownValuesChecked": 3,
+      "findings": [],
+      "valuesLogged": false
+    },
+    "git": {
+      "origin": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16.git",
+      "branch": "main",
+      "headAtCheck": "fec3027a03a64c2c3f56995a1bb445db7d3b84e6",
+      "stagedPathCount": 86,
+      "stagedOutsideArchive": [],
+      "stagedContentDiffersFromWorkingTree": [
+        "ai-work-session/FILE_CHANGE_LOG.md"
+      ]
+    }
+  },
+  "errors": [],
+  "scope": "Archive validation only; not a render, Flick benchmark, native skill-host activation test, or guarantee no unknown secret exists."
+}

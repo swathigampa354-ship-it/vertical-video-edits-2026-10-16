@@ -1,0 +1,29 @@
+{
+  "capturedAtUtc": "2026-10-16T13:51:05.282315+00:00",
+  "python": "3.13.16",
+  "platform": "Linux-6.1.158+-x86_64-with-glibc2.41",
+  "cpuCount": 2,
+  "packagesObservedNow": {
+    "requests": "2.33.0",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0",
+    "opencv-python": "4.11.0.86",
+    "imageio-ffmpeg": null,
+    "soundfile": "0.13.1",
+    "scipy": "1.17.1",
+    "faster-whisper": null,
+    "ctranslate2": null,
+    "av": null,
+    "pymupdf": null,
+    "yt-dlp": null,
+    "PyYAML": "6.0.3"
+  },
+  "node": "v20.20.2",
+  "git": "git version 2.47.3",
+  "shellHistoryFiles": {
+    "/home/user/.bash_history": false,
+    "/home/user/.zsh_history": false
+  },
+  "historicalPackageVersionLockRecovered": false,
+  "priorCacheProjectDirectoriesPresent": []
+}

@@ -1,0 +1,23 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "frames": 641,
+  "bytes": 10688724,
+  "videoDurationSeconds": 21.366666666666667,
+  "fullDecodePassed": true,
+  "decodeErrors": "",
+  "audioAlignmentLagMilliseconds": 0.0,
+  "loudness": {
+    "input_i": "-15.89",
+    "input_tp": "-1.70",
+    "input_lra": "1.80",
+    "input_thresh": "-26.30",
+    "output_i": "-16.02",
+    "output_tp": "-1.57",
+    "output_lra": "1.40",
+    "output_thresh": "-26.37",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  }
+}
