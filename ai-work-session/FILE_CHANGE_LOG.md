@@ -2,7 +2,7 @@
 ## Archive task scope
 Every new tracked deliverable from this task is under `ai-work-session/`. No existing root README, delivered video, original source or local input is edited. Operational Git metadata was initialized solely to attach the same existing remote; it is not part of the archive commit. Initial comparison found 14 remote files identical locally and 131 pre-existing workspace files. The strict validator rechecks those 131 hashes.
 ## Complete list of files created
-This list contains **87 files** currently present in the archive (including this inventory). Exact copied artifact hashes are independently preserved in `references/evidence/copied-artifact-provenance.json`. Generated report dates/commit status are evidence, not guessed future outcomes.
+This list contains **90 files** currently present in the archive (including this inventory). Exact copied artifact hashes are independently preserved in `references/evidence/copied-artifact-provenance.json`. Generated report dates/commit status are evidence, not guessed future outcomes.
 | New path (repository-relative) | Actual change / reason | Verification or provenance |
 |---|---|---|
 | `ai-work-session/.gitattributes` | Scoped whitespace-check exception only for exact copied OFL license texts; authored docs/code remain checked. | Included in path/link/secret validation; see verification report. |
@@ -42,8 +42,11 @@ This list contains **87 files** currently present in the archive (including this
 | `ai-work-session/references/evidence/copied-artifact-provenance.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/current-media-verification.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/environment-observed-now.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
+| `ai-work-session/references/evidence/followup-staged-review.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
+| `ai-work-session/references/evidence/git-cache-maintenance.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/initial-remote-state.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/initial-workspace-inventory.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
+| `ai-work-session/references/evidence/primary-push-verification.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/project-readme.before-archive.txt` | Exact byte-copy of `README.md`; preserve recoverable source/input/evidence. | 1,597 bytes; SHA-256 `0e4c3971a32e229267e750bda05a7bdcfc608a70d5f90042106a705700e97178`; checked by validator. |
 | `ai-work-session/references/evidence/staged-review.json` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |
 | `ai-work-session/references/evidence/tool-ledger.md` | Recovered visible text or machine-captured archive/Git/validation evidence; redacted where needed. | Included in path/link/secret validation; see verification report. |

@@ -215,3 +215,9 @@ After the primary push, a small follow-up may record its real hash/results insid
 ### Archive-local whitespace exception
 
 Initial staged `--check` returned exit 2 for original trailing whitespace at line 21 in five copied OFL texts. Their exact bytes are preserved. `ai-work-session/.gitattributes` disables whitespace warnings only for those copied `*OFL.txt` files, not for authored documentation/code or unrelated paths. The successful recheck is recorded in staged evidence; this is not a claim that original license text contains no trailing space.
+
+## Observed primary push and Git-cache maintenance
+
+Primary commit `1c43a3ab45971507614392bae6bcfb6bb5da587a` was created with the descriptive archive message and normally pushed (`fec3027..1c43a3a main -> main`, exit 0). Public API/raw checks verified it; see [primary evidence](references/evidence/primary-push-verification.json). No secret environment export is retained. `git_askpass.py` reads only `SESSION_ARCHIVE_GITHUB_TOKEN` from the active process, prints it only to Git's credential prompt, and does not store it.
+
+After publication, `git verify-pack -v` confirmed a task-downloaded promisor cache pack held only pre-archive blob IDs. Its files were backed up in memory, evicted, and `git fsck --connectivity-only --no-dangling` passed (0, empty output). This reduced duplicate local Git storage, did not remove user worktree/history/refs, and leaves promised public blobs fetchable. [Exact observed record](references/evidence/git-cache-maintenance.json). The main session record describes the cache paths and rollback condition; it is not a generic recommendation to delete arbitrary Git objects.

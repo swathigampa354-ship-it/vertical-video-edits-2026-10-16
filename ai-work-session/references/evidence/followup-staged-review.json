@@ -1,0 +1,23 @@
+{
+  "capturedAtUtc": "2026-10-16T14:26:59.878539+00:00",
+  "parentArchiveCommit": "1c43a3ab45971507614392bae6bcfb6bb5da587a",
+  "pathCountAtReview": 10,
+  "pathsAtReview": [
+    "ai-work-session/COMMANDS_AND_TOOLS.md",
+    "ai-work-session/CONTINUE.md",
+    "ai-work-session/DECISION_LOG.md",
+    "ai-work-session/FILE_CHANGE_LOG.md",
+    "ai-work-session/SESSION_ARCHIVE.md",
+    "ai-work-session/VERIFICATION_REPORT.md",
+    "ai-work-session/references/evidence/archive-validation.json",
+    "ai-work-session/references/evidence/git-cache-maintenance.json",
+    "ai-work-session/references/evidence/primary-push-verification.json",
+    "ai-work-session/references/session_index.md"
+  ],
+  "onlyArchive": true,
+  "fullPatchBytes": 26021,
+  "fullPatchSha256": "62fc7befc381eedc1606c628909cd41123d2011fd21f56f17e8f2cab181de0ad",
+  "whitespaceExitCode": 0,
+  "purpose": "Evidence-only follow-up records actual primary push, cache connectivity and final validation. No original media/source/root README change.",
+  "selfReferenceNote": "This review file and subsequent timestamp/report text are staged afterward, followed by a no-write staged-bytes/scope check; final commit hash comes from Git after commit."
+}

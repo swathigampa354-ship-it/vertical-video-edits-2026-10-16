@@ -2195,3 +2195,62 @@ The archive-local licence exception was verified with `git check-attr whitespace
 The complete staged patch was processed (567,690 bytes at that checkpoint; 86 paths), whitespace exit 0, all paths inside the dedicated folder. The timestamped staged-review JSON was then added and the file inventory updated to 87 files. A fresh no-write validator at 2026-10-16T14:21:30.565435+00:00 returned PASS for all 87 staged paths: staged bytes equal validated working files, no outside paths, all 13 required files, 113 relative links / none broken, 13 Python AST checks, 53 exact copies and all 131 originals preserved; three known sensitive values checked in memory with zero findings. No secret values or authenticated headers were put into the archive.
 
 The same no-write staged-content check and normal remote-tip guard are applied again immediately before commit. No push success is asserted in this pre-commit entry.
+
+
+## H13 / A008 — Primary archive commit and successful normal push
+
+Assistant progress message before commit:
+
+```text
+The archive now contains the visible session record, redacted setup prompt, source snapshots, inputs, plans, reports and visual-review evidence, plus the reusable skill.
+
+Fresh checks decoded all three existing videos, verified 53 copied artifacts, and confirmed that all 131 pre-existing workspace files are unchanged. No credentials were detected. The staged whitespace check flagged original spaces in five copied font licences; I preserved their exact bytes with an archive-local exception. The recheck passed. I’m completing the final staged-content check before committing and pushing.
+```
+
+Actual pre-push guard: `git ls-remote origin refs/heads/main` and `git rev-parse HEAD` both returned `fec3027a03a64c2c3f56995a1bb445db7d3b84e6`. Final no-write validator at 2026-10-16T14:22:34.432212+00:00 passed for 87 paths with staged bytes equal working files and zero outside staged paths.
+
+Actual commit command:
+
+```bash
+git -c user.name='AI Work Session Archive' -c user.email='ai-work-session@users.noreply.github.com' commit -m 'docs: archive AI work session and add reusable skill'
+```
+
+Observed: `[main 1c43a3a] docs: archive AI work session and add reusable skill`, 87 new files / 10,941 textual insertions. Primary full hash: `1c43a3ab45971507614392bae6bcfb6bb5da587a`. No outside path included.
+
+Actual push used an ephemeral authorized credential through `git_askpass.py`, with terminal prompting disabled, credential-helper storage disabled, tracing disabled and no credential in the remote URL. Sensitive environment values are intentionally not copied. Core command:
+
+```bash
+git -c credential.helper= push origin main
+```
+
+Observed exit 0:
+
+```text
+To https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16.git
+   fec3027..1c43a3a  main -> main
+```
+
+Public verification at 2026-10-16T14:24:19.366383+00:00: commit/tree/folder/SKILL endpoints all HTTP 200; `main` matched the primary commit; all 87 archive blob IDs matched the committed tree; all 14 original remote blobs were unchanged; original history remained an ancestor. See [primary-push-verification.json](references/evidence/primary-push-verification.json). No new repository was created.
+
+## H13 / A009 — Reversible, verified cleanup of newly downloaded Git cache only
+
+The archive task's filtered fetch/subsequent reads had cached a 21 MB promisor pack of original remote blobs. After the primary push was verified, a script used `git verify-pack -v` to confirm the candidate contained **only 12 blob objects from the pre-archive remote tree**, backed its files up in memory, removed those cache files, and ran `git fsck --connectivity-only --no-dangling`. The operation would restore all bytes from memory on failure.
+
+Observed: connectivity exit 0, empty output; no restore needed; 21,390,251 bytes evicted; Git storage reduced from 30,429,935 to 9,039,684 bytes. The four task-created cache paths used the base `.git/objects/pack/pack-67ac562af47a0d63f19f71530b3ee4b0bad54ee3` with `.pack`, `.idx`, `.rev`, `.promisor` extensions. **No worktree file, ref, commit/tree history or newly authored archive object was removed.** The public remote retains the promised blobs and Git can fetch them on demand. All pre-existing worktree hashes are rechecked afterward. This is cache maintenance, not a reset, clean, force push or discarded user change.
+
+Machine evidence: [git-cache-maintenance.json](references/evidence/git-cache-maintenance.json). Current working tree still shows only the new evidence files plus the same pre-existing untracked project paths.
+
+Assistant progress message after primary verification:
+
+```text
+The primary archive commit is pushed to main. I verified it on GitHub: all 87 archive files are present, the skill is publicly readable, and the original 14 tracked files are unchanged.
+
+I’m adding that observed push evidence to the archive in a small follow-up commit, then I’ll verify the final remote tip.
+```
+
+The follow-up is evidence-only, inside the same folder. Its own final commit hash cannot be embedded in the bytes that determine that same hash; obtain it from Git history/the final response, and verify remotely after push.
+
+
+## H13 / A010 — Evidence-only follow-up preparation
+
+After primary publication, added the actual public push record and Git-cache connectivity record, updated continuation/verification/decision/index/file-list documents, and reran strict original-workspace, copied-artifact, skill/link/source/JSON and known-secret checks. All original 131 files remained unchanged. The follow-up stages only paths inside `ai-work-session/`; no root README or earlier video/source changes. The full follow-up patch and whitespace/scope checks are recorded in `references/evidence/followup-staged-review.json`. Its own future commit ID is intentionally not guessed. A final normal push and public tree/tip comparison are performed after committing; the actual resulting tip is reported in the final delivery message and Git history.

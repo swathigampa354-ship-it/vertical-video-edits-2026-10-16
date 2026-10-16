@@ -60,3 +60,10 @@ All are the same source clip in separate requested styles. No file in those fold
 ## Verification and future updates
 
 Use the main verification report for fresh helper results and actual push evidence. Generated machine reports live under `evidence/`; their content distinguishes current checks from historical copies. The initial capture helper refuses to overwrite the original baseline. Future sessions should append dated/ordered checkpoints, not rewrite past failures or treat restored cache/package absence as proof earlier work failed.
+
+## Recorded archive delivery checkpoints
+
+- [Primary normal push / public verification](evidence/primary-push-verification.json).
+- [Task-created Git promisor cache maintenance / connectivity pass](evidence/git-cache-maintenance.json).
+
+Final evidence-only commit ID is obtained from Git history/the final message, avoiding a self-referential tracked hash.

@@ -115,3 +115,10 @@ Evidence categories: **V** = observed tool/file/Git result; **D** = documented u
 - Problem: a tracked file cannot contain the hash of the exact commit that introduces itself without a circular dependency.
 - Decision: validate and push the primary archive, then add a small evidence follow-up recording the actual primary commit/push result. The final tip hash is verified remotely and reported in the final response/Git history, not guessed inside its own commit. **D**
 - Require fresh evidence for each success claim. If push fails, document the blocker and do not label it successful.
+
+## D17 — Preserve published history while reducing task-created duplicate Git cache
+
+- Evidence: normal primary push and public 87-file verification succeeded; local Git storage was about 30.4 MB, including a 21.4 MB promisor pack downloaded during this task.
+- Decision: only after validating that pack contained exclusively 12 pre-archive remote blob IDs, retain a memory rollback copy, evict that cache, and require successful Git connectivity verification. **D/V**
+- Outcome: `git fsck --connectivity-only --no-dangling` exit 0, no output; Git storage about 9.0 MB. No worktree, refs, commit/tree history or newly authored archive objects removed. Remote promised blobs remain available on demand.
+- Trade-off: future operations may fetch old blob content again; remote/configuration recovery is explicitly documented rather than assumed persistent. This is not user-data cleanup or a rewritten history.

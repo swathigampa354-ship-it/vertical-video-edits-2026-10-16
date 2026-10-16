@@ -24,22 +24,26 @@ Captured at `2026-10-16T14:17:11.844443+00:00`; result **PASS**. Method: full Op
 Reports: [V1](references/evidence/analysis/export-qc.json), [V2](references/evidence/analysis/editorial-v2-export-qc.json), [V3](references/evidence/analysis/morph-v3-export-qc.json). Voice timing used a specific one-to-four-second cross-correlation check, not a recorded human proofreading of every word. Use FFmpeg `input_*` loudness fields for actual delivered-file measurements; `output_*` were null-analysis target results, not a second encode.
 Historical public MP4 checks returned HTTP 206 and MP4 signature true; V2/V3 upload transactions checked prior video hashes unchanged. Actual commits are in the delivery JSON and recovered Git history.
 ## 4. Archive/skill/source validation — fresh
-Recorded command: `python ai-work-session/references/scripts/validate_archive.py --check-original-workspace`. Captured at `2026-10-16T14:21:30.189543+00:00`; result **PASS**.
+Recorded command: `python ai-work-session/references/scripts/validate_archive.py --check-original-workspace`. Captured at `2026-10-16T14:28:03.847955+00:00`; result **PASS**.
 - Required files: 13; missing: 0.
 - Skill: Agent Skills YAML/Markdown, name `ai-work-session`, 119 lines; directory/name match and frontmatter constraints checked.
-- Relative Markdown links checked: 112; broken: 0. External URLs are not all refetched merely to validate syntax.
+- Relative Markdown links checked: 122; broken: 0. External URLs are not all refetched merely to validate syntax.
 - Python AST syntax parsed: 13 files; source not imported or executed for this test.
-- JSON parsed: 21 files.
+- JSON parsed: 24 files.
 - Exact copied artifacts: 53; mismatches: 0.
 - Original workspace files checked: 131; changed: 0; missing: 0.
-- Secret scan: 87 files; 3 supplied sensitive values checked in memory (including direct/base64/URL encodings); detected findings: 0. No values were printed or stored.
+- Secret scan: 90 files; 3 supplied sensitive values checked in memory (including direct/base64/URL encodings); detected findings: 0. No values were printed or stored.
 
 [Machine report](references/evidence/archive-validation.json). The report is a timestamped check, not a claim that no unknown secret could ever exist. Staged scope is separately checked before commit. Native activation in a specific AI client is **not tested**; only portable format and documented explicit loading are verified.
 ## 5. Git stage/diff review
 Captured at `2026-10-16T14:20:57.209241+00:00`: 86 staged paths; all inside `ai-work-session/`: **True**; `git diff --cached --check` exit code: **0**.
 The complete staged textual diff was inspected, copied binary inputs were hash/provenance checked, and source syntax/known-secret scans ran before commit. See [staged review](references/evidence/staged-review.json) for commands/results and prior tracked-file preservation. The staged-review evidence file itself is added afterward, so its own future presence/hash is not pretended to have been in its earlier inventory. A final no-write scope validation is performed after the evidence is staged.
 ## 6. Commit / push verification
-No primary push-verification record exists at this revision. Commit/push are not claimed complete until a real remote check is captured.
+Primary archive commit: `1c43a3ab45971507614392bae6bcfb6bb5da587a` on `main`.
+Normal push completed; remote tip at the recorded check was `1c43a3ab45971507614392bae6bcfb6bb5da587a`; matches primary commit: **True**. Existing original tracked blobs preserved: **True**.
+Public folder and commit were checked at `2026-10-16T14:24:19.366383+00:00`; verified archive files: 87.
+[Public archive folder](https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/tree/main/ai-work-session) · [Primary archive commit](https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/commit/1c43a3ab45971507614392bae6bcfb6bb5da587a) · [Machine evidence](references/evidence/primary-push-verification.json).
+This narrative is an evidence follow-up committed after the primary push was observed. It cannot embed its own introducing commit hash without self-reference. The final delivery tip is obtained from Git history / the final response and verified remotely after the follow-up push. Primary verification is a real earlier checkpoint, not a claim the primary hash remains the latest tip forever.
 ## 7. Not tested / limitations
 - No new render, replacement narrator, face generation, third-party posting, stock Flick installation or Remotion/Flick batch benchmark was run in this task.
 - The actual Instagram reel was not supplied; the earlier Flick audit evaluated the user-reported claim and public source only.
