@@ -1,0 +1,19 @@
+{
+  "capturedAtUtc": "2026-10-16T14:24:45.001010+00:00",
+  "scope": "Only transient Git promisor blobs downloaded by this archive task; no worktree files, refs, commits, trees or newly authored archive objects removed. Public remote retains the objects and partial clone may fetch them on demand.",
+  "gitBytesBefore": 30429935,
+  "gitBytesAfter": 9039684,
+  "operations": [
+    {
+      "pack": "pack-67ac562af47a0d63f19f71530b3ee4b0bad54ee3",
+      "cacheEvictionRetained": true,
+      "onlyPreArchivePromisedBlobs": true,
+      "objectCount": 12,
+      "bytesEvicted": 21390251,
+      "fsckExitCode": 0,
+      "fsckOutput": ""
+    }
+  ],
+  "reason": "Reduce duplicate local Git cache while preserving the complete published archive and all existing working files.",
+  "existingUserFilesChanged": false
+}

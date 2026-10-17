@@ -1,0 +1,1949 @@
+{
+  "repository": "swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+  "branch": "main",
+  "visibility": "public",
+  "head": "50a58f6c63eac9e748a70c1da51eeb6b60840fac",
+  "tree": "5199556db59567d23d5b0244d087172e5f81b08e",
+  "remote_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40779d9a2b606dc68600e163920993e79f01c334",
+      "size": 1597,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/40779d9a2b606dc68600e163920993e79f01c334"
+    },
+    {
+      "path": "ai-work-session/.gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "137b64a7a92a169038fc3ba5e4017f5a07096df5",
+      "size": 231,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/137b64a7a92a169038fc3ba5e4017f5a07096df5"
+    },
+    {
+      "path": "ai-work-session/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2fdef81281d72cc9e2b1ccb777294ff859d6c8a",
+      "size": 519,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f2fdef81281d72cc9e2b1ccb777294ff859d6c8a"
+    },
+    {
+      "path": "ai-work-session/COMMANDS_AND_TOOLS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "554c1d5c982d8eed61c2cae2cb2265ca3d7dcb48",
+      "size": 14501,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/554c1d5c982d8eed61c2cae2cb2265ca3d7dcb48"
+    },
+    {
+      "path": "ai-work-session/CONTINUE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7211d343d9d55edd8932aa25d58e4bf68e854719",
+      "size": 6060,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/7211d343d9d55edd8932aa25d58e4bf68e854719"
+    },
+    {
+      "path": "ai-work-session/DECISION_LOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5ce5177cf96f1d94c20328df04dcf522ef5e7ab",
+      "size": 11725,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/c5ce5177cf96f1d94c20328df04dcf522ef5e7ab"
+    },
+    {
+      "path": "ai-work-session/ERRORS_AND_SOLUTIONS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd3a811fdbaa560647e192f7bd438dc85c3dd0a0",
+      "size": 10667,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/fd3a811fdbaa560647e192f7bd438dc85c3dd0a0"
+    },
+    {
+      "path": "ai-work-session/FILE_CHANGE_LOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a44e50c68af161254c560d0bed9d6f892d617690",
+      "size": 27971,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a44e50c68af161254c560d0bed9d6f892d617690"
+    },
+    {
+      "path": "ai-work-session/PROJECT_CONTEXT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70b7206f7a12e302dcd76bbfc182b5e713df9e0e",
+      "size": 9066,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/70b7206f7a12e302dcd76bbfc182b5e713df9e0e"
+    },
+    {
+      "path": "ai-work-session/SESSION_ARCHIVE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a9721a45cca788157660f92399d50d63a23a471",
+      "size": 103486,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/6a9721a45cca788157660f92399d50d63a23a471"
+    },
+    {
+      "path": "ai-work-session/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dedd93b1799035442e391c7aa03fb79d41f6963",
+      "size": 9497,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/0dedd93b1799035442e391c7aa03fb79d41f6963"
+    },
+    {
+      "path": "ai-work-session/VERIFICATION_REPORT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b8c9f0c7391bd283b96d946a46f3637d42503eb",
+      "size": 6953,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/8b8c9f0c7391bd283b96d946a46f3637d42503eb"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/browserless-check.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35bdc43f245fc7a872fc09d093752f3702269344",
+      "size": 1428,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/35bdc43f245fc7a872fc09d093752f3702269344"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/delivery.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d02ab4cd9f037c3b4d19b643d001b8300122761",
+      "size": 773,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/5d02ab4cd9f037c3b4d19b643d001b8300122761"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/editorial-v2-delivery.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81b63ecf376a3a581c59341edda29134ed59b478",
+      "size": 827,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/81b63ecf376a3a581c59341edda29134ed59b478"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/editorial-v2-export-qc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d70d0eca6618ff800365112a9372059cd7f8dbf8",
+      "size": 595,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d70d0eca6618ff800365112a9372059cd7f8dbf8"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/export-qc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92044a5c736cab5fd9f24c391b6dce44e725401e",
+      "size": 526,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/92044a5c736cab5fd9f24c391b6dce44e725401e"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/final-media-info.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96045205162a5a1bf44f02f9508035f3a33e9dab",
+      "size": 972,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/96045205162a5a1bf44f02f9508035f3a33e9dab"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/morph-v3-delivery.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3ee8bfadc84e210427c37d147910360e8487f00",
+      "size": 816,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d3ee8bfadc84e210427c37d147910360e8487f00"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/morph-v3-export-qc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5d69c455c9a3925928c01a2d3d9026e27b18669",
+      "size": 631,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f5d69c455c9a3925928c01a2d3d9026e27b18669"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/raw-info.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19765bd501b636fce433540d9e6735f51d66151d",
+      "size": 5,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/19765bd501b636fce433540d9e6735f51d66151d"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/raw-media-info.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2a703c344ba0866d29ac1ab03ca8541e0d884a7",
+      "size": 1061,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/b2a703c344ba0866d29ac1ab03ca8541e0d884a7"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/reference-v2-info.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3ba16567512764ddd85e0c36bc54a351eca7c2e",
+      "size": 130,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a3ba16567512764ddd85e0c36bc54a351eca7c2e"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/reference-v2-media.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d2176e0cd73511a9633ca3f0349ed42afb685e5",
+      "size": 850,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/0d2176e0cd73511a9633ca3f0349ed42afb685e5"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/repository.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9297dc156058897e44234d2da0177ddfe1ce829f",
+      "size": 213,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/9297dc156058897e44234d2da0177ddfe1ce829f"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan-editorial-v2.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66333fc69adde3b8fb0ded008b9722ca72228644",
+      "size": 3624,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/66333fc69adde3b8fb0ded008b9722ca72228644"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan-morph-v3.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc02b968bfb9d90493ea08c87f391353b746b1d5",
+      "size": 4259,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/bc02b968bfb9d90493ea08c87f391353b746b1d5"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01a38e15d4fa636d31b541e120ab8aba75a3d9a7",
+      "size": 3979,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/01a38e15d4fa636d31b541e120ab8aba75a3d9a7"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-info.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19765bd501b636fce433540d9e6735f51d66151d",
+      "size": 5,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/19765bd501b636fce433540d9e6735f51d66151d"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-reference-media-info.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c06c178ef7828aa25d8d506e4547ebf5c6f8df0b",
+      "size": 1279,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/c06c178ef7828aa25d8d506e4547ebf5c6f8df0b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-v3-catalog-inspiration.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85d70a4a33afb2049ab3273aa3e9ea453dfd73f9",
+      "size": 5495,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/85d70a4a33afb2049ab3273aa3e9ea453dfd73f9"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/transcript.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0677cf45cb9ae3ab95977fda5d078b57a4a1ea6",
+      "size": 12033,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f0677cf45cb9ae3ab95977fda5d078b57a4a1ea6"
+    },
+    {
+      "path": "ai-work-session/references/evidence/archive-task-request.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "847142bbd69e31822c6efddf61e8339771092ac8",
+      "size": 9299,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/847142bbd69e31822c6efddf61e8339771092ac8"
+    },
+    {
+      "path": "ai-work-session/references/evidence/archive-validation.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea6c442f449d2070180eee64eeedab6f65a0ac66",
+      "size": 2234,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/ea6c442f449d2070180eee64eeedab6f65a0ac66"
+    },
+    {
+      "path": "ai-work-session/references/evidence/browserless-user-prompt.redacted.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a53f92136e5148603b3812bf03851ee34d03463b",
+      "size": 20963,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a53f92136e5148603b3812bf03851ee34d03463b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/copied-artifact-provenance.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "825429d83fb60e75ddb84a21044b7fd99a7d2189",
+      "size": 13247,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/825429d83fb60e75ddb84a21044b7fd99a7d2189"
+    },
+    {
+      "path": "ai-work-session/references/evidence/current-media-verification.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b580bed3793cfc9de1693c50069a6b1611528b34",
+      "size": 1728,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/b580bed3793cfc9de1693c50069a6b1611528b34"
+    },
+    {
+      "path": "ai-work-session/references/evidence/environment-observed-now.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d67c37d6ac28c526164f76355bc42b50acbcae3",
+      "size": 754,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/4d67c37d6ac28c526164f76355bc42b50acbcae3"
+    },
+    {
+      "path": "ai-work-session/references/evidence/followup-staged-review.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6036b9453c3f733055862388590c1bddf57697b0",
+      "size": 1209,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/6036b9453c3f733055862388590c1bddf57697b0"
+    },
+    {
+      "path": "ai-work-session/references/evidence/git-cache-maintenance.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "800dc85b835f90986e44f9392fa8b541d70c413b",
+      "size": 806,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/800dc85b835f90986e44f9392fa8b541d70c413b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/initial-remote-state.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "928c0e482c7197d0a38e1b2cb77f2df2e94c51ef",
+      "size": 4157,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/928c0e482c7197d0a38e1b2cb77f2df2e94c51ef"
+    },
+    {
+      "path": "ai-work-session/references/evidence/initial-workspace-inventory.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13b88f47fa8c21a63923522062a663f3056b8b9a",
+      "size": 22113,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/13b88f47fa8c21a63923522062a663f3056b8b9a"
+    },
+    {
+      "path": "ai-work-session/references/evidence/primary-push-verification.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9eff19d770b875b13f4a5c7478ce056825ba151",
+      "size": 1112,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/e9eff19d770b875b13f4a5c7478ce056825ba151"
+    },
+    {
+      "path": "ai-work-session/references/evidence/project-readme.before-archive.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40779d9a2b606dc68600e163920993e79f01c334",
+      "size": 1597,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/40779d9a2b606dc68600e163920993e79f01c334"
+    },
+    {
+      "path": "ai-work-session/references/evidence/staged-review.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdd0754ea2ac8e600dae2e2ece3fe74942e52349",
+      "size": 7074,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/bdd0754ea2ac8e600dae2e2ece3fe74942e52349"
+    },
+    {
+      "path": "ai-work-session/references/evidence/tool-ledger.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80483a07bcc2fb9d9a4476ab2e6315c8253199dc",
+      "size": 41920,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/80483a07bcc2fb9d9a4476ab2e6315c8253199dc"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visible-dialogue.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "779dfd858d0187398ea829122d8c392b7d2e5ef9",
+      "size": 17203,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/779dfd858d0187398ea829122d8c392b7d2e5ef9"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/catalog-one-shape-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1eb198a8b52a42624a37410d5bd49154e420e6",
+      "size": 123298,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/ab1eb198a8b52a42624a37410d5bd49154e420e6"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/design-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10a596af525a4ef9364fde31c9a3069b758a0c80",
+      "size": 328740,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/10a596af525a4ef9364fde31c9a3069b758a0c80"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/editorial-v2-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1eff206e4ab7004b0c76539d72467fa9332c2ab1",
+      "size": 485689,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/1eff206e4ab7004b0c76539d72467fa9332c2ab1"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/morph-v3-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "783a5b6780eedebdd725f61bab8422ce51b16f22",
+      "size": 390618,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/783a5b6780eedebdd725f61bab8422ce51b16f22"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/raw-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a66850c7e6b6e2190ec029e7b683f952a8022ea6",
+      "size": 89796,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a66850c7e6b6e2190ec029e7b683f952a8022ea6"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/reference-v2-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c75c10b53f1e207afd4b4bb8902da8421b7d8cc9",
+      "size": 704192,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/c75c10b53f1e207afd4b4bb8902da8421b7d8cc9"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/style-reference-contact.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae52587d3df9b24ccbb376d0c1634fbe76c2bc5e",
+      "size": 724078,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/ae52587d3df9b24ccbb376d0c1634fbe76c2bc5e"
+    },
+    {
+      "path": "ai-work-session/references/inputs/original-brief.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e632ae98589955bf9236b56657a1f61ea3c0e25",
+      "size": 3550546,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/5e632ae98589955bf9236b56657a1f61ea3c0e25"
+    },
+    {
+      "path": "ai-work-session/references/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73e55048881ba3617e437e23bbe93b5147e64922",
+      "size": 6877,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/73e55048881ba3617e437e23bbe93b5147e64922"
+    },
+    {
+      "path": "ai-work-session/references/scripts/capture_evidence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f538da1a54df4f7bf0419f411015e7ba66d0ef30",
+      "size": 5829,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f538da1a54df4f7bf0419f411015e7ba66d0ef30"
+    },
+    {
+      "path": "ai-work-session/references/scripts/git_askpass.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d9557b0e2d9f341f6a4e13f7839d8d76dc228bf8",
+      "size": 523,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d9557b0e2d9f341f6a4e13f7839d8d76dc228bf8"
+    },
+    {
+      "path": "ai-work-session/references/scripts/update_file_change_log.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e431690de15257bb643c9cd8b7cc57d552692a2",
+      "size": 8041,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/2e431690de15257bb643c9cd8b7cc57d552692a2"
+    },
+    {
+      "path": "ai-work-session/references/scripts/update_verification_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9232d2708a17d12abe09e5295fa29db3a327a062",
+      "size": 8704,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/9232d2708a17d12abe09e5295fa29db3a327a062"
+    },
+    {
+      "path": "ai-work-session/references/scripts/validate_archive.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7effd2e1fd4776f3bc10ac4973179206dd59b50",
+      "size": 8724,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d7effd2e1fd4776f3bc10ac4973179206dd59b50"
+    },
+    {
+      "path": "ai-work-session/references/scripts/verify_media.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50bd96fb92a2bc261b7726d99de999fdedfa8853",
+      "size": 2264,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/50bd96fb92a2bc261b7726d99de999fdedfa8853"
+    },
+    {
+      "path": "ai-work-session/references/session_index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d281ed3426ae7dd042944e9e523c3e645eb8e74",
+      "size": 4778,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/6d281ed3426ae7dd042944e9e523c3e645eb8e74"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c0320722eac31653101159464ee1a1eb6061009",
+      "size": 2720,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/9c0320722eac31653101159464ee1a1eb6061009"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/analysis/raw-audio.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc7d775cacda6fc8984c1174c4dcbb0171e764fc",
+      "size": 663758,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/cc7d775cacda6fc8984c1174c4dcbb0171e764fc"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/analysis/transcript.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0677cf45cb9ae3ab95977fda5d078b57a4a1ea6",
+      "size": 12033,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f0677cf45cb9ae3ab95977fda5d078b57a4a1ea6"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Barlow-Medium.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d546e7a376da63b119bfbf67bc3e8bdee0172316",
+      "size": 103536,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d546e7a376da63b119bfbf67bc3e8bdee0172316"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/BarlowCondensed-BlackItalic.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b62bf4ca1652203b401941b749672d9ac15bdbb3",
+      "size": 112592,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/b62bf4ca1652203b401941b749672d9ac15bdbb3"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/BarlowCondensed-SemiBold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9df66576492bee4bd0559066825472808fa98adc",
+      "size": 109428,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/9df66576492bee4bd0559066825472808fa98adc"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Geist-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61f6f4b7853081236aec6407f2dd3c7170997f84",
+      "size": 4387,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/61f6f4b7853081236aec6407f2dd3c7170997f84"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Geist-Variable.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f63f0afc6390323715972b6645115485f37cc9f4",
+      "size": 169056,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f63f0afc6390323715972b6645115485f37cc9f4"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/GeistMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61f6f4b7853081236aec6407f2dd3c7170997f84",
+      "size": 4387,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/61f6f4b7853081236aec6407f2dd3c7170997f84"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/GeistMono-Variable.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "173867dce0580ea751e4b9c558740d34f20ce549",
+      "size": 171948,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/173867dce0580ea751e4b9c558740d34f20ce549"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-Italic.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "192c3eda9864241ad280e9bcc84e258c80a4a588",
+      "size": 71592,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/192c3eda9864241ad280e9bcc84e258c80a4a588"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "669ce7917bec662fcf7244d37f49c4277f6fbd73",
+      "size": 4405,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/669ce7917bec662fcf7244d37f49c4277f6fbd73"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36fac00ef9b7d523236df6536cb09c712bb2c7e4",
+      "size": 70012,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/36fac00ef9b7d523236df6536cb09c712bb2c7e4"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Inter-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21f6aff961064c2e429f570995e446bcdd555422",
+      "size": 4377,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/21f6aff961064c2e429f570995e446bcdd555422"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Inter-Variable.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "047c92f6e2212473dc436020afed689527076d44",
+      "size": 876576,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/047c92f6e2212473dc436020afed689527076d44"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f22ba6ca4dbc12145ae40b14c3368f387cba0e2",
+      "size": 4377,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/2f22ba6ca4dbc12145ae40b14c3368f387cba0e2"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/raw.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "873b7a29cc7d6399f450e145febc9fc37854572d",
+      "size": 1101889,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/873b7a29cc7d6399f450e145febc9fc37854572d"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/edits/voice-agents-9x16/captions.srt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "size": 1098,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/32d387ed29b7440e25f1187d472449137fa2d602"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/requirements-reproduction.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edb2944031a16d68e591874084f5e42aebab71f6",
+      "size": 365,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/edb2944031a16d68e591874084f5e42aebab71f6"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8acaa5d8cdce2fa44682026476bb24c9a244594b",
+      "size": 5249,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/8acaa5d8cdce2fa44682026476bb24c9a244594b"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio_editorial_v2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "781d928ba94404242821c9963ced7aa36c248ee1",
+      "size": 2642,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/781d928ba94404242821c9963ced7aa36c248ee1"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio_morph_v3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f03096748ff75fcad23d362be9daebdc18237c13",
+      "size": 3223,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f03096748ff75fcad23d362be9daebdc18237c13"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7bf91410a2958d42021f81aa76a77640cb05162",
+      "size": 19226,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a7bf91410a2958d42021f81aa76a77640cb05162"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render_editorial_v2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4df6883bf47f31218e01ae25ad2c4ed5c433feeb",
+      "size": 18411,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/4df6883bf47f31218e01ae25ad2c4ed5c433feeb"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render_morph_v3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebd9f4e978feb03152af58ef13ed5b380429f13e",
+      "size": 22016,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/ebd9f4e978feb03152af58ef13ed5b380429f13e"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/transcribe.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1bef3a813f57cd86c8bb818d63624f929713b80",
+      "size": 1202,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/b1bef3a813f57cd86c8bb818d63624f929713b80"
+    },
+    {
+      "path": "ai-work-session/references/technical_details.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2210fbe59ff6a1ce1fb1452dc52d534141538a3",
+      "size": 9466,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/b2210fbe59ff6a1ce1fb1452dc52d534141538a3"
+    },
+    {
+      "path": "ai-work-session/references/troubleshooting.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3f625c935558effa7f8dc963e02595f662fa6b5",
+      "size": 3787,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/e3f625c935558effa7f8dc963e02595f662fa6b5"
+    },
+    {
+      "path": "assets/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ee469b7230861a526f31cfb41e0f330ef4d980c",
+      "size": 165,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/9ee469b7230861a526f31cfb41e0f330ef4d980c"
+    },
+    {
+      "path": "edits/voice-agents-9x16/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e85267cf006aad5bb6854d40f8966b7cedd2f83a",
+      "size": 1454,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/e85267cf006aad5bb6854d40f8966b7cedd2f83a"
+    },
+    {
+      "path": "edits/voice-agents-9x16/captions.srt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "size": 1098,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/32d387ed29b7440e25f1187d472449137fa2d602"
+    },
+    {
+      "path": "edits/voice-agents-9x16/poster.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a01826ee05b525bd04953b047048d5259c0a3127",
+      "size": 238460,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/a01826ee05b525bd04953b047048d5259c0a3127"
+    },
+    {
+      "path": "edits/voice-agents-9x16/voice-agents-9x16.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "081a6cd2b8bf4cc42110b82b4163e3fd35b3f52e",
+      "size": 10688724,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/081a6cd2b8bf4cc42110b82b4163e3fd35b3f52e"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "902e44f72fe5f46bd8aca6fbf4fc4860a603ffa9",
+      "size": 1658,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/902e44f72fe5f46bd8aca6fbf4fc4860a603ffa9"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/captions.srt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "size": 1098,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/32d387ed29b7440e25f1187d472449137fa2d602"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/poster.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87989dc42fb2cf2ad52c006b483ce8f1514509ea",
+      "size": 189748,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/87989dc42fb2cf2ad52c006b483ce8f1514509ea"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25ca8657ced576e7594d692d2d87292fc4225d90",
+      "size": 4415601,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/25ca8657ced576e7594d692d2d87292fc4225d90"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e39232983286b12061ca9101e78120c69cee5b27",
+      "size": 3101,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/e39232983286b12061ca9101e78120c69cee5b27"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/captions.srt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d387ed29b7440e25f1187d472449137fa2d602",
+      "size": 1098,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/32d387ed29b7440e25f1187d472449137fa2d602"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/poster.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0fb5d94e757d151d3ade49f25774b2ed6848032",
+      "size": 188215,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/d0fb5d94e757d151d3ade49f25774b2ed6848032"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f133c3e3a970ddac810861e6ff5838be3922b0c1",
+      "size": 5902296,
+      "url": "https://api.github.com/repos/swathigampa354-ship-it/vertical-video-edits-2026-10-16/git/blobs/f133c3e3a970ddac810861e6ff5838be3922b0c1"
+    }
+  ],
+  "workspace_files": [
+    {
+      "path": "README.md",
+      "bytes": 1597,
+      "sha256": "0e4c3971a32e229267e750bda05a7bdcfc608a70d5f90042106a705700e97178"
+    },
+    {
+      "path": "ai-work-session/.gitattributes",
+      "bytes": 231,
+      "sha256": "748adabcb2c07549b3b9c748741754fd21cdd1280fd7127c586695e7245d73e7"
+    },
+    {
+      "path": "ai-work-session/.gitignore",
+      "bytes": 519,
+      "sha256": "77bc55c3de289f96614416162415503caa1e4c7fc2db39bbadb4be7d233564a2"
+    },
+    {
+      "path": "ai-work-session/COMMANDS_AND_TOOLS.md",
+      "bytes": 14501,
+      "sha256": "994cacb3f6aa911ce68b868584edfe1eea72372fe872f9c7e18028a01183d163"
+    },
+    {
+      "path": "ai-work-session/CONTINUE.md",
+      "bytes": 6060,
+      "sha256": "8d50e29e64413268276ec0166d3ac061711ce15eb398e7d4ebe76b230420116e"
+    },
+    {
+      "path": "ai-work-session/DECISION_LOG.md",
+      "bytes": 11725,
+      "sha256": "2a1efcb8250e1f986810478be1c6c374111a39a20825b8027670816ba8d24c07"
+    },
+    {
+      "path": "ai-work-session/ERRORS_AND_SOLUTIONS.md",
+      "bytes": 10667,
+      "sha256": "4d7e0c2debd6cf4a878ab79d5175a8de5d7c261f3a3d4f143a89db5d9fc41d71"
+    },
+    {
+      "path": "ai-work-session/FILE_CHANGE_LOG.md",
+      "bytes": 27971,
+      "sha256": "139df24d9fbe487f8d957f4ccf14c5985e57767a5b871f6a4222e14670d0f34e"
+    },
+    {
+      "path": "ai-work-session/PROJECT_CONTEXT.md",
+      "bytes": 9066,
+      "sha256": "bdfbb2fc3882824d6d817f87d543f482340fd4b398ed0fc1359f4cf444e47736"
+    },
+    {
+      "path": "ai-work-session/SESSION_ARCHIVE.md",
+      "bytes": 103486,
+      "sha256": "7474b49ebd0a2ed6bad1e7364a2a1f071db32aefbc72c1d6f3813c44d215aa0c"
+    },
+    {
+      "path": "ai-work-session/SKILL.md",
+      "bytes": 9497,
+      "sha256": "8c9e7ddf713495a3b5b7371e3067e9ebd332a51bfe281af534a870a9f60ad41e"
+    },
+    {
+      "path": "ai-work-session/VERIFICATION_REPORT.md",
+      "bytes": 6953,
+      "sha256": "5521ed21e115b49ed1c4609efa4bad997fa46246c9df71319ccf927fa743171b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/browserless-check.json",
+      "bytes": 1428,
+      "sha256": "db798df1d69a74ed103fe27a7a4905d918357641e03e1dffb5259ab1bc81711e"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/delivery.json",
+      "bytes": 773,
+      "sha256": "cb8d8408c7d877e5430a2c8fa2022d705d1d4ef2f3e0587f2ad81a001b47a851"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/editorial-v2-delivery.json",
+      "bytes": 827,
+      "sha256": "7012503d6c4d315f535e54d268e03bb59f0b43c0ee7f29d91ea297d9ce02c348"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/editorial-v2-export-qc.json",
+      "bytes": 595,
+      "sha256": "6a129ae721e92864f64bc74c7a9bc2eddda137fed035a3a3d14502bf6a4ee5a5"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/export-qc.json",
+      "bytes": 526,
+      "sha256": "07f38d3af5768964f8070b68697dd81dec45bbeb52ff672e499d6c94653185d8"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/final-media-info.txt",
+      "bytes": 972,
+      "sha256": "bf5e1d42c013736c30bc8b7563b6a146fe76d64683782090fcf341b005e8bfed"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/morph-v3-delivery.json",
+      "bytes": 816,
+      "sha256": "02b45434cea0434685ba663f886d9c8d07fa731a6602c04c8b34a8646fabbed2"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/morph-v3-export-qc.json",
+      "bytes": 631,
+      "sha256": "6d4ceb8c7d629cca782ee5a09f7b11c1b67b5b70d62995f5ef572033bd21317e"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/raw-info.json",
+      "bytes": 5,
+      "sha256": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/raw-media-info.txt",
+      "bytes": 1061,
+      "sha256": "f06fd8785b60dbd150a82a91c5353b38bb9db143b04d0ae8fd8096e49628b332"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/reference-v2-info.json",
+      "bytes": 130,
+      "sha256": "be469fab4199846f7635438c3d23a70860ab27052b64356b999a3dcfa0d647fc"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/reference-v2-media.txt",
+      "bytes": 850,
+      "sha256": "e982a74cb8f4d5cfc832ea326ec3598f0a699c407a1ccccb34d762148af04e8c"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/repository.json",
+      "bytes": 213,
+      "sha256": "3b27dc79d44f1064a759440af6b305ab80caa87919a04ea302dfa6037e2eca5b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan-editorial-v2.md",
+      "bytes": 3624,
+      "sha256": "620c8a7da20f620a0758f723c95a2542428dff83fcdd1b3ec1b60fd98775764d"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan-morph-v3.md",
+      "bytes": 4259,
+      "sha256": "d9d90ecfc7334aa5ceb5a06e56313c2694d3748c34121149b26be64fab656a1e"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/scene-plan.md",
+      "bytes": 3979,
+      "sha256": "9c5e2a0f737a894f94c130080d6a6a1fe460ef16b8f5dfdaf8c4e531cfebcbfb"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-info.json",
+      "bytes": 5,
+      "sha256": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-reference-media-info.txt",
+      "bytes": 1279,
+      "sha256": "7c0f51a801f0f8eb402514e582e65be8dc4a5ebe93c4f70f933669760432df95"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/style-v3-catalog-inspiration.json",
+      "bytes": 5495,
+      "sha256": "580a4497a62b707327ca54e65eec5d35faf6fdca10168f68af8dcb4a91b772eb"
+    },
+    {
+      "path": "ai-work-session/references/evidence/analysis/transcript.json",
+      "bytes": 12033,
+      "sha256": "fe4a8c80336cdafacbb9454389a79443167f7e3dc09105cdae55ab26d300b2bb"
+    },
+    {
+      "path": "ai-work-session/references/evidence/archive-task-request.txt",
+      "bytes": 9299,
+      "sha256": "2ac4bcefc8e0939fb2ca9c4746e49eaf6b24a228c13e0bd675949c22112f86c6"
+    },
+    {
+      "path": "ai-work-session/references/evidence/archive-validation.json",
+      "bytes": 2234,
+      "sha256": "6a47a1b69e1fabf045bd09bc22537afc79596f378d17fdc8049962407f3bb806"
+    },
+    {
+      "path": "ai-work-session/references/evidence/browserless-user-prompt.redacted.txt",
+      "bytes": 20963,
+      "sha256": "d49078664a80d61bb827643d9035eae41bf70afe6a4473980fd92f55cf42d965"
+    },
+    {
+      "path": "ai-work-session/references/evidence/copied-artifact-provenance.json",
+      "bytes": 13247,
+      "sha256": "4a9a10c6d114f55ac3f042e2c2819198f803ea2228321831d40cabf59e159419"
+    },
+    {
+      "path": "ai-work-session/references/evidence/current-media-verification.json",
+      "bytes": 1728,
+      "sha256": "0a1f19d4a747f809fa5c2d3121e9e670c6d01e4120d44d83fd0f71539bf8398c"
+    },
+    {
+      "path": "ai-work-session/references/evidence/environment-observed-now.json",
+      "bytes": 754,
+      "sha256": "cc87f9d9d48a5c4a685e31da6ce9580ad3d8da3f08220676ea05eabad33d3c6f"
+    },
+    {
+      "path": "ai-work-session/references/evidence/followup-staged-review.json",
+      "bytes": 1209,
+      "sha256": "897486bfb60c5a4acf879860012abe9b1376de9b3609800e9080aa16fa3eab4b"
+    },
+    {
+      "path": "ai-work-session/references/evidence/git-cache-maintenance.json",
+      "bytes": 806,
+      "sha256": "6ac4981be5386dec11323a09d64218db45ae9b1baa2862a584a244476a093d79"
+    },
+    {
+      "path": "ai-work-session/references/evidence/initial-remote-state.json",
+      "bytes": 4157,
+      "sha256": "a8d5a9522ac475468cd39fb982597e66fb810741ad01e2bc195616488cecaa1a"
+    },
+    {
+      "path": "ai-work-session/references/evidence/initial-workspace-inventory.json",
+      "bytes": 22113,
+      "sha256": "16b072b481ac51f93841bc7a855512be39b65f78e4ef4c7eef088064e8c01b54"
+    },
+    {
+      "path": "ai-work-session/references/evidence/primary-push-verification.json",
+      "bytes": 1112,
+      "sha256": "ea5f02d81fe22f9477dd4d5f63adc9de6cbca6c457b2d30ae786d1cf0e77aa8d"
+    },
+    {
+      "path": "ai-work-session/references/evidence/project-readme.before-archive.txt",
+      "bytes": 1597,
+      "sha256": "0e4c3971a32e229267e750bda05a7bdcfc608a70d5f90042106a705700e97178"
+    },
+    {
+      "path": "ai-work-session/references/evidence/staged-review.json",
+      "bytes": 7074,
+      "sha256": "38dedbbe6123b717038fcaff0aa478e99073770dee1a6e4f3afb5fbb69f7ebbc"
+    },
+    {
+      "path": "ai-work-session/references/evidence/tool-ledger.md",
+      "bytes": 41920,
+      "sha256": "14a251c446057abcf85b62d1e89e43c6d2eb3a1b664096c84277d2bab413781f"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visible-dialogue.md",
+      "bytes": 17203,
+      "sha256": "25a8aa5476d277a17d04aab9d37b26428129d6a903ef66af32247d6efc3fb012"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/catalog-one-shape-contact.jpg",
+      "bytes": 123298,
+      "sha256": "925a344de5dca2657a5843cacc3fd07e68c6ac6f35c3b354f2cb1b1f75091aa1"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/design-contact.jpg",
+      "bytes": 328740,
+      "sha256": "dae4a0ea8dcbb61da88945625f513ca67e527b4fd97cf4b20de0378305edfe10"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/editorial-v2-contact.jpg",
+      "bytes": 485689,
+      "sha256": "2634f89909323e36b06b0e1b35ee397088de24442af4793f4037dd3dbef414ff"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/morph-v3-contact.jpg",
+      "bytes": 390618,
+      "sha256": "f5625cfd36bc53a10443747dcfedd79808a96a22b021264a99c8c030322d88d7"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/raw-contact.jpg",
+      "bytes": 89796,
+      "sha256": "40ba01eba3f297752b3c50b47cc0cccaf53b51fbdfe96e20e9e9aa7f2bf4ece4"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/reference-v2-contact.jpg",
+      "bytes": 704192,
+      "sha256": "6d2ba40e4726637d280fd71be32897b1588b9e1e564fc8fd1a8e23ccac8d0675"
+    },
+    {
+      "path": "ai-work-session/references/evidence/visual-checks/style-reference-contact.jpg",
+      "bytes": 724078,
+      "sha256": "4cd8497abbb19ac23c3faf2a69c85180ede4a1c6930e1b011f50cd4d31f222a0"
+    },
+    {
+      "path": "ai-work-session/references/inputs/original-brief.pdf",
+      "bytes": 3550546,
+      "sha256": "ef7b78059a1ed48d45342230c287c7a58834c581d61181d6a4b7e2a244f3ba61"
+    },
+    {
+      "path": "ai-work-session/references/requirements.md",
+      "bytes": 6877,
+      "sha256": "aa8cbc4945de00ea59869c303c9b324cd2b0f21b3814aeefeb40b65a67efdf86"
+    },
+    {
+      "path": "ai-work-session/references/scripts/capture_evidence.py",
+      "bytes": 5829,
+      "sha256": "3a96aaf3f3cf5bfe410d286a4d2b922c587f935730b5a2a8e4544c3a97059bfb"
+    },
+    {
+      "path": "ai-work-session/references/scripts/git_askpass.py",
+      "bytes": 523,
+      "sha256": "7ba42849c95084c6498fb0143b41ba729a4891b774d052bbd7f598667f382cd2"
+    },
+    {
+      "path": "ai-work-session/references/scripts/update_file_change_log.py",
+      "bytes": 8041,
+      "sha256": "d0267186a2445372c3d9a07e7908033066f3e91ab22a893eae8cac8f3640db13"
+    },
+    {
+      "path": "ai-work-session/references/scripts/update_verification_report.py",
+      "bytes": 8704,
+      "sha256": "e8e3de5a64556e4cf96da0ca316d63c75ddcbfd4e2565cfcaa0f9daab058a786"
+    },
+    {
+      "path": "ai-work-session/references/scripts/validate_archive.py",
+      "bytes": 8724,
+      "sha256": "b3293bb72b704882112fe48560949dc4ee2dd7cc6f2c57288cbd83bb4030d738"
+    },
+    {
+      "path": "ai-work-session/references/scripts/verify_media.py",
+      "bytes": 2264,
+      "sha256": "2e7056d04e417240695f83f31300a3192b84b76d36036025384719b71f0fec62"
+    },
+    {
+      "path": "ai-work-session/references/session_index.md",
+      "bytes": 4778,
+      "sha256": "277113c0f17e601bf084003f3e200dbb7b3de673bf6b0df38174d561f77712e9"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/README.md",
+      "bytes": 2720,
+      "sha256": "757eb9585f5e0e8ffa95e865258ae653e6dd612a72b6fc4254d389da5c52d603"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/analysis/raw-audio.wav",
+      "bytes": 663758,
+      "sha256": "354d7cb353d28135f164ffed5e0398bc99f7fde82bf7cd8928712ebfc8275a16"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/analysis/transcript.json",
+      "bytes": 12033,
+      "sha256": "fe4a8c80336cdafacbb9454389a79443167f7e3dc09105cdae55ab26d300b2bb"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Barlow-Medium.ttf",
+      "bytes": 103536,
+      "sha256": "f8906f762cb73dca441da034bc363b2d8e2e68bc10d5c05e58717646c20cc4b4"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/BarlowCondensed-BlackItalic.ttf",
+      "bytes": 112592,
+      "sha256": "e1ed5d7e50c6a4498454d40509ce2362384a2c7870df3418fdbd010f81dffad3"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/BarlowCondensed-SemiBold.ttf",
+      "bytes": 109428,
+      "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Geist-OFL.txt",
+      "bytes": 4387,
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Geist-Variable.ttf",
+      "bytes": 169056,
+      "sha256": "73894e0448cae90a92b6c2f8732b7bb9acb7b94c418bff559dad4a18e1de9659"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/GeistMono-OFL.txt",
+      "bytes": 4387,
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/GeistMono-Variable.ttf",
+      "bytes": 171948,
+      "sha256": "d00e590b8eb3a59acc329b2d044fd143ae935090b7da33199ebee27cc7de8196"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-Italic.ttf",
+      "bytes": 71592,
+      "sha256": "08939b8bdf534afec24ae0ef5e03f948940cd9a8fe08e7fecbad040e62327385"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/InstrumentSerif-Regular.ttf",
+      "bytes": 70012,
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/Inter-Variable.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/fonts/OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/assets/raw.mp4",
+      "bytes": 1101889,
+      "sha256": "818291ad7087a70457b2439442d4eec2f0142625558300c197fc6ce8acfd2b21"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/edits/voice-agents-9x16/captions.srt",
+      "bytes": 1098,
+      "sha256": "fc637ebc409b6c699d09487613dd071b08ab5258e3d7abd126f274c86ad72437"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/requirements-reproduction.txt",
+      "bytes": 365,
+      "sha256": "47ae0368991e0d891605836e213b58cc55e14ed7a950303a2974af4b2c10ff5b"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio.py",
+      "bytes": 5249,
+      "sha256": "a0f2d5b0812fb1a72e8b11e93462aa306519a66bef604e676b9442893c87f564"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio_editorial_v2.py",
+      "bytes": 2642,
+      "sha256": "4c5a6c21ec87dd17b95755ea625395beca074996f47d93e74b5e1b05bb07ad1e"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/audio_morph_v3.py",
+      "bytes": 3223,
+      "sha256": "e412851f9ae6ffe95ea2c750b1d10b5230e5c8c2c150a0effe984356620b72e1"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render.py",
+      "bytes": 19226,
+      "sha256": "ace6a62273275b43aafbf118aa04655ca7b76046691783b4cff9285316318c83"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render_editorial_v2.py",
+      "bytes": 18411,
+      "sha256": "16603035354635c0f3c5436c1a44020a041d391000e3082436e21b02f85291ad"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/render_morph_v3.py",
+      "bytes": 22016,
+      "sha256": "800c40d08fda7d9e00477c29c80d27b7f8efb974e50bb0d1187d89eac6e09916"
+    },
+    {
+      "path": "ai-work-session/references/source-snapshot/source/transcribe.py",
+      "bytes": 1202,
+      "sha256": "053f599178f4436f1ce2ed5e248b501158a2457516e12e4547c2d233a7e0d773"
+    },
+    {
+      "path": "ai-work-session/references/technical_details.md",
+      "bytes": 9466,
+      "sha256": "393818f5b53baa675f7aa05c8c0f0f14a8d3a256493a39443cb01f499334196c"
+    },
+    {
+      "path": "ai-work-session/references/troubleshooting.md",
+      "bytes": 3787,
+      "sha256": "63da62e1279654fff90e82ac64ac8922fcbdc01eeafaf794ba500865716d8dc2"
+    },
+    {
+      "path": "analysis/browserless-check.json",
+      "bytes": 1428,
+      "sha256": "db798df1d69a74ed103fe27a7a4905d918357641e03e1dffb5259ab1bc81711e"
+    },
+    {
+      "path": "analysis/catalog-heyiammallik-293397.webp",
+      "bytes": 23170,
+      "sha256": "7068f7995fcd3a95eac6fe0e96b20b4cc8cd29d64e8002fa335d1c53f6e953d0"
+    },
+    {
+      "path": "analysis/catalog-moritzkremb-466494.webp",
+      "bytes": 22636,
+      "sha256": "dc5bd867e213be493b6acadbe270978f70d2c8904c629dd48d2b2156c552864a"
+    },
+    {
+      "path": "analysis/catalog-one-shape-contact.jpg",
+      "bytes": 123298,
+      "sha256": "925a344de5dca2657a5843cacc3fd07e68c6ac6f35c3b354f2cb1b1f75091aa1"
+    },
+    {
+      "path": "analysis/catalog-twoclipping-402193.webp",
+      "bytes": 8662,
+      "sha256": "9c664f011f606073a0a0b9ed949b20cbeaba4459d1558fcb5bf7722358de9363"
+    },
+    {
+      "path": "analysis/delivery.json",
+      "bytes": 773,
+      "sha256": "cb8d8408c7d877e5430a2c8fa2022d705d1d4ef2f3e0587f2ad81a001b47a851"
+    },
+    {
+      "path": "analysis/design-contact.jpg",
+      "bytes": 328740,
+      "sha256": "dae4a0ea8dcbb61da88945625f513ca67e527b4fd97cf4b20de0378305edfe10"
+    },
+    {
+      "path": "analysis/design-frame-00.jpg",
+      "bytes": 247011,
+      "sha256": "252d5d7ebad3e42171089a7c352ae47b2a19c33cf416e957259656fde7da32db"
+    },
+    {
+      "path": "analysis/design-frame-01.jpg",
+      "bytes": 198142,
+      "sha256": "b0e12a44812903cc6968d65a08c5da7fc6e69850191c629885ac6f91e1090224"
+    },
+    {
+      "path": "analysis/design-frame-02.jpg",
+      "bytes": 217522,
+      "sha256": "634633ade03d686aaca82f147ee7f58927988c2395f29a0f4eb0dd8803e94b0e"
+    },
+    {
+      "path": "analysis/design-frame-03.jpg",
+      "bytes": 180930,
+      "sha256": "053541ac38a06f3d230e8aeface246466a95158c375316be59e7f8e386a526b6"
+    },
+    {
+      "path": "analysis/design-frame-04.jpg",
+      "bytes": 188988,
+      "sha256": "710074d260b3a055dd3eb73c7397326633ce1a72464b722927571fea01e276b8"
+    },
+    {
+      "path": "analysis/design-frame-05.jpg",
+      "bytes": 199118,
+      "sha256": "981014f12b14dd62dd870528197b4da3bbb5e5dd38bb035ec9a50b2f225c775c"
+    },
+    {
+      "path": "analysis/design-frame-06.jpg",
+      "bytes": 193218,
+      "sha256": "2a44c9812e4b4e42f5a9bdbae419c37d06d51beca4b99cc235da4d1a581d155f"
+    },
+    {
+      "path": "analysis/design-frame-07.jpg",
+      "bytes": 195901,
+      "sha256": "4451f569c54173bec43b1a9d33f3bedce9079fe8307930496993ea3ea923e735"
+    },
+    {
+      "path": "analysis/design-frame-08.jpg",
+      "bytes": 193614,
+      "sha256": "6d99d697a9f33c481ef763006ec177c587924b9872a624570c35e47bbc63c575"
+    },
+    {
+      "path": "analysis/design-frame-09.jpg",
+      "bytes": 197003,
+      "sha256": "a33401028a8df640c79b9fe2b7b40bcbd839418bae1922187e311e9a92c45984"
+    },
+    {
+      "path": "analysis/design-frame-10.jpg",
+      "bytes": 182611,
+      "sha256": "0eb5f78e7bc0984dda35431211b74f7321325485770b9ef8362cf16586460b1c"
+    },
+    {
+      "path": "analysis/editorial-v2-contact.jpg",
+      "bytes": 485689,
+      "sha256": "2634f89909323e36b06b0e1b35ee397088de24442af4793f4037dd3dbef414ff"
+    },
+    {
+      "path": "analysis/editorial-v2-delivery.json",
+      "bytes": 827,
+      "sha256": "7012503d6c4d315f535e54d268e03bb59f0b43c0ee7f29d91ea297d9ce02c348"
+    },
+    {
+      "path": "analysis/editorial-v2-export-qc.json",
+      "bytes": 595,
+      "sha256": "6a129ae721e92864f64bc74c7a9bc2eddda137fed035a3a3d14502bf6a4ee5a5"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-00.jpg",
+      "bytes": 220239,
+      "sha256": "a05bc0b2cd229b4480a0ad6b37ac9f02f927f6e585331da5756c62ccd2b50852"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-01.jpg",
+      "bytes": 231174,
+      "sha256": "21fee979adf70ab575860d827ffbac86d67181704e2655cc06bd0d6cde658882"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-02.jpg",
+      "bytes": 86424,
+      "sha256": "09db99ebc9353bd7e4de42fe388a669d3ad8101dd20b55f5f0b4ebe4568ec601"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-03.jpg",
+      "bytes": 167007,
+      "sha256": "12f5dad50655117202ac87d98e7e5578f1272e4959de762532efeb054b2e0a51"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-04.jpg",
+      "bytes": 317560,
+      "sha256": "d99ead9acc97be350634a375f21ae6ffe70f71aa148463bea6eedd2c504c9190"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-05.jpg",
+      "bytes": 361237,
+      "sha256": "e5caf3c5c9fee6cccf05dcafafc03e28fb6fa7465ac4c1d35f6f2c53d925ac97"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-06.jpg",
+      "bytes": 380017,
+      "sha256": "ab66e766ec8a9873d8495ffc01ec71191bbf24a9e2b8f0bc92ede5dd4ec39fd0"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-07.jpg",
+      "bytes": 198637,
+      "sha256": "0456f46134b33b8a5bb05ef4da9f0bf2b3a164b584c9afbb90a2e0928b6c1479"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-08.jpg",
+      "bytes": 177802,
+      "sha256": "6bfae3545df099c284e3f744d3f9be83ca7b5d1a3175a652a69e3e1e7c8f37a4"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-09.jpg",
+      "bytes": 174402,
+      "sha256": "4664789d2b1189d69955b2a473cbd3a657dee8ef7b933aed9f44b645acb1c040"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-10.jpg",
+      "bytes": 174985,
+      "sha256": "0e180346e57998e30ef1b266b2000f410fbf430da8206259f1c5298217f6ebb2"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-11.jpg",
+      "bytes": 176095,
+      "sha256": "4cdeb37423351f2f3517d64281b1487607e083ab154e2d383ca405b8d08a2fa5"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-12.jpg",
+      "bytes": 114206,
+      "sha256": "067a2e94e7b54e230536cd397e7e0428e27bc4052815715c549e87fd375a7c5b"
+    },
+    {
+      "path": "analysis/editorial-v2-frame-13.jpg",
+      "bytes": 165740,
+      "sha256": "b7ae2227ec3476c8b005baf2d421b83564004538b36a496b9142d81498182f73"
+    },
+    {
+      "path": "analysis/export-qc.json",
+      "bytes": 526,
+      "sha256": "07f38d3af5768964f8070b68697dd81dec45bbeb52ff672e499d6c94653185d8"
+    },
+    {
+      "path": "analysis/final-audio.wav",
+      "bytes": 6154604,
+      "sha256": "c630867fef88c78fc0bf355c05d2bea548ec7b7a147ca1899e1d71eee04820ff"
+    },
+    {
+      "path": "analysis/final-media-info.txt",
+      "bytes": 972,
+      "sha256": "bf5e1d42c013736c30bc8b7563b6a146fe76d64683782090fcf341b005e8bfed"
+    },
+    {
+      "path": "analysis/morph-v3-contact.jpg",
+      "bytes": 390618,
+      "sha256": "f5625cfd36bc53a10443747dcfedd79808a96a22b021264a99c8c030322d88d7"
+    },
+    {
+      "path": "analysis/morph-v3-delivery.json",
+      "bytes": 816,
+      "sha256": "02b45434cea0434685ba663f886d9c8d07fa731a6602c04c8b34a8646fabbed2"
+    },
+    {
+      "path": "analysis/morph-v3-export-qc.json",
+      "bytes": 631,
+      "sha256": "6d4ceb8c7d629cca782ee5a09f7b11c1b67b5b70d62995f5ef572033bd21317e"
+    },
+    {
+      "path": "analysis/morph-v3-frame-00.jpg",
+      "bytes": 217135,
+      "sha256": "3cf1eab9a2341842a414b1d49b70c45521a89ccbdf547a7feddc9b219b1e2f1a"
+    },
+    {
+      "path": "analysis/morph-v3-frame-01.jpg",
+      "bytes": 138477,
+      "sha256": "b4af80f8e44a8a68baf76019c9df19a67041c624d7cf150f186e6a4d63e05c49"
+    },
+    {
+      "path": "analysis/morph-v3-frame-02.jpg",
+      "bytes": 179142,
+      "sha256": "cec7ad10cfe769c0a4a0c554a50375573058d0650dce6a717b2f1c34f389a29b"
+    },
+    {
+      "path": "analysis/morph-v3-frame-03.jpg",
+      "bytes": 125800,
+      "sha256": "ca03c20ca84ba4572689d3b593b6b5098bca68a8f43b248254fbb8426ab936cc"
+    },
+    {
+      "path": "analysis/morph-v3-frame-04.jpg",
+      "bytes": 124874,
+      "sha256": "2a2dd75fdd8d1b24015ebdad3aa124fb958e34b16390c5d6e72ca0f99c3e2a8e"
+    },
+    {
+      "path": "analysis/morph-v3-frame-05.jpg",
+      "bytes": 193106,
+      "sha256": "1057be9ce591a645ffc6d28d54d7eceba31f228a2b3b9ecbc78996732e2d6036"
+    },
+    {
+      "path": "analysis/morph-v3-frame-06.jpg",
+      "bytes": 185103,
+      "sha256": "92c1aeefd25e063e74ccfbcc5c25a6398f626bef2a2a95ab093e8b9a47f431de"
+    },
+    {
+      "path": "analysis/morph-v3-frame-07.jpg",
+      "bytes": 147751,
+      "sha256": "565708fc1b740ec579919e23d9377721f2d628b34d2c0980780facef45ef29c4"
+    },
+    {
+      "path": "analysis/morph-v3-frame-08.jpg",
+      "bytes": 129225,
+      "sha256": "819cd564986faa95a20316112de782727e3eed958ca308442222c33905899c34"
+    },
+    {
+      "path": "analysis/morph-v3-frame-09.jpg",
+      "bytes": 152203,
+      "sha256": "9497b48a59ebb68e81f304985b810d4648ef15ed7f4f1eafecd86597c32b213f"
+    },
+    {
+      "path": "analysis/morph-v3-frame-10.jpg",
+      "bytes": 162730,
+      "sha256": "2105c71a25e0b2d2821a719d64ca889506f6344e2bf5357a741a52f9c347c44d"
+    },
+    {
+      "path": "analysis/morph-v3-frame-11.jpg",
+      "bytes": 116683,
+      "sha256": "0e7d81a060b32af7446fdf51d7181cead2a90a28a24b32aa721813d727d06fe7"
+    },
+    {
+      "path": "analysis/morph-v3-frame-12.jpg",
+      "bytes": 171633,
+      "sha256": "956485f731aedf22e722a06faf9e6960cf5b38f0781b57d573a9be6519481d4a"
+    },
+    {
+      "path": "analysis/morph-v3-frame-13.jpg",
+      "bytes": 158399,
+      "sha256": "c2b94bca90cc73edaf03aba5ce65d766c45156078e76e6804166af436b062de2"
+    },
+    {
+      "path": "analysis/original-bed.wav",
+      "bytes": 6154604,
+      "sha256": "80e260ad5ae9f2a956800d804744e9c991f824f521a137e1450a29edd67e4f5a"
+    },
+    {
+      "path": "analysis/raw-audio.wav",
+      "bytes": 663758,
+      "sha256": "354d7cb353d28135f164ffed5e0398bc99f7fde82bf7cd8928712ebfc8275a16"
+    },
+    {
+      "path": "analysis/raw-contact.jpg",
+      "bytes": 89796,
+      "sha256": "40ba01eba3f297752b3c50b47cc0cccaf53b51fbdfe96e20e9e9aa7f2bf4ece4"
+    },
+    {
+      "path": "analysis/raw-frame-0.jpg",
+      "bytes": 30699,
+      "sha256": "42a5863051d8c84ac1af0a73f534b886811f90d6c7e4cef1af5da485df8f6e5f"
+    },
+    {
+      "path": "analysis/raw-frame-12.jpg",
+      "bytes": 23759,
+      "sha256": "38b0214953039fe97d6acd32fb838c2bd5762679d041643b977ff270339ad4fb"
+    },
+    {
+      "path": "analysis/raw-frame-18.jpg",
+      "bytes": 21993,
+      "sha256": "659dc2fdee95189e15f242bfb8cbf0ce319b45e9c71631d0c6c2b6136395a532"
+    },
+    {
+      "path": "analysis/raw-frame-3.jpg",
+      "bytes": 30743,
+      "sha256": "e26c6c64107bc27847c83211618319051fca1f867ad52c05492844d3bca40511"
+    },
+    {
+      "path": "analysis/raw-frame-4.jpg",
+      "bytes": 30485,
+      "sha256": "f5aae7b5f04e4d52a421c38a9bf9f028c09734c2d1ca7b6adbe845573a7e19fe"
+    },
+    {
+      "path": "analysis/raw-frame-6.jpg",
+      "bytes": 23859,
+      "sha256": "125a2a5669156991148e63986b48b4a13d9a4f22a767cebc441e7c184186fb28"
+    },
+    {
+      "path": "analysis/raw-info.json",
+      "bytes": 5,
+      "sha256": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed"
+    },
+    {
+      "path": "analysis/raw-media-info.txt",
+      "bytes": 1061,
+      "sha256": "f06fd8785b60dbd150a82a91c5353b38bb9db143b04d0ae8fd8096e49628b332"
+    },
+    {
+      "path": "analysis/raw-thumbnail.jpg",
+      "bytes": 86287,
+      "sha256": "97bb728441b2a7edb5b65d71fbe8e267d58ac06aef781aefc5326970555791eb"
+    },
+    {
+      "path": "analysis/reference-v2-contact.jpg",
+      "bytes": 704192,
+      "sha256": "6d2ba40e4726637d280fd71be32897b1588b9e1e564fc8fd1a8e23ccac8d0675"
+    },
+    {
+      "path": "analysis/reference-v2-frame-00.jpg",
+      "bytes": 74892,
+      "sha256": "09b46c4d0a9af627288487c78054cf211fde58d93dd05bd4a8f14d0aa3ecb0af"
+    },
+    {
+      "path": "analysis/reference-v2-frame-02.jpg",
+      "bytes": 88557,
+      "sha256": "0b5f0e78614f7b6cb61599df5f3af37b071cb09855209dc12185ee97a3ef3256"
+    },
+    {
+      "path": "analysis/reference-v2-frame-05.jpg",
+      "bytes": 85447,
+      "sha256": "8c7efd1a9c5d0eb1813a3817bb096d7651aeca3df4e4e5886839ca189d86a95d"
+    },
+    {
+      "path": "analysis/reference-v2-frame-08.jpg",
+      "bytes": 52898,
+      "sha256": "d8d2ddd88d777a260cb183b748f9075481657f89403580ac60d9a6bae1269bff"
+    },
+    {
+      "path": "analysis/reference-v2-frame-11.jpg",
+      "bytes": 78807,
+      "sha256": "c5959c971035a0aea4a83a586ab31def2b65e756b02bbe3522dbb9a3ee6e30ad"
+    },
+    {
+      "path": "analysis/reference-v2-frame-14.jpg",
+      "bytes": 175710,
+      "sha256": "b2bf09e33c8f1efe736491fce14dc2ff0f980a517f7c119a59e7c70e149bcb9a"
+    },
+    {
+      "path": "analysis/reference-v2-frame-17.jpg",
+      "bytes": 70170,
+      "sha256": "c184d8572d62f510c64a8c4f3a80983dbf3f4da75284d410b5cb918b3f3bbc14"
+    },
+    {
+      "path": "analysis/reference-v2-frame-20.jpg",
+      "bytes": 92909,
+      "sha256": "e771178252abae1c1a13491f9c22f5bd32ddddb9b3291ba5b3730889e32477c2"
+    },
+    {
+      "path": "analysis/reference-v2-frame-23.jpg",
+      "bytes": 92547,
+      "sha256": "4270cfeb3bd63259aaf1a649e268a96385b1ddae024c207eee8e6ba39a5d886d"
+    },
+    {
+      "path": "analysis/reference-v2-frame-26.jpg",
+      "bytes": 80948,
+      "sha256": "a07d2ff0e7a775455c3f81e06b589d68974a296ff5a64739f68af41d2e6b9ace"
+    },
+    {
+      "path": "analysis/reference-v2-frame-29.jpg",
+      "bytes": 120782,
+      "sha256": "fbbb0fe555a8444f6ed528272dce39058133de0392f2eac4ae789ae69524c827"
+    },
+    {
+      "path": "analysis/reference-v2-info.json",
+      "bytes": 130,
+      "sha256": "be469fab4199846f7635438c3d23a70860ab27052b64356b999a3dcfa0d647fc"
+    },
+    {
+      "path": "analysis/reference-v2-media.txt",
+      "bytes": 850,
+      "sha256": "e982a74cb8f4d5cfc832ea326ec3598f0a699c407a1ccccb34d762148af04e8c"
+    },
+    {
+      "path": "analysis/repository.json",
+      "bytes": 213,
+      "sha256": "3b27dc79d44f1064a759440af6b305ab80caa87919a04ea302dfa6037e2eca5b"
+    },
+    {
+      "path": "analysis/scene-plan-editorial-v2.md",
+      "bytes": 3624,
+      "sha256": "620c8a7da20f620a0758f723c95a2542428dff83fcdd1b3ec1b60fd98775764d"
+    },
+    {
+      "path": "analysis/scene-plan-morph-v3.md",
+      "bytes": 4259,
+      "sha256": "d9d90ecfc7334aa5ceb5a06e56313c2694d3748c34121149b26be64fab656a1e"
+    },
+    {
+      "path": "analysis/scene-plan.md",
+      "bytes": 3979,
+      "sha256": "9c5e2a0f737a894f94c130080d6a6a1fe460ef16b8f5dfdaf8c4e531cfebcbfb"
+    },
+    {
+      "path": "analysis/style-info.json",
+      "bytes": 5,
+      "sha256": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed"
+    },
+    {
+      "path": "analysis/style-reference-contact.jpg",
+      "bytes": 724078,
+      "sha256": "4cd8497abbb19ac23c3faf2a69c85180ede4a1c6930e1b011f50cd4d31f222a0"
+    },
+    {
+      "path": "analysis/style-reference-media-info.txt",
+      "bytes": 1279,
+      "sha256": "7c0f51a801f0f8eb402514e582e65be8dc4a5ebe93c4f70f933669760432df95"
+    },
+    {
+      "path": "analysis/style-thumbnail.jpg",
+      "bytes": 105130,
+      "sha256": "99ffdaab841aa62115e40b65b0501e6ab887063de14b2e4fc64ad90ee21e246b"
+    },
+    {
+      "path": "analysis/style-v3-catalog-inspiration.json",
+      "bytes": 5495,
+      "sha256": "580a4497a62b707327ca54e65eec5d35faf6fdca10168f68af8dcb4a91b772eb"
+    },
+    {
+      "path": "analysis/transcript.json",
+      "bytes": 12033,
+      "sha256": "fe4a8c80336cdafacbb9454389a79443167f7e3dc09105cdae55ab26d300b2bb"
+    },
+    {
+      "path": "analysis/visuals.mp4",
+      "bytes": 10161180,
+      "sha256": "e3c916d720e4c8e259788e24031d6bfa51be97917e82c1dbbead549f6f2f4ff7"
+    },
+    {
+      "path": "analysis/voice-normalized.wav",
+      "bytes": 7962638,
+      "sha256": "131d0eefc1cf0cf16d8135485c41dc66aa9c95c0c258e24ee5aef916f707dc9c"
+    },
+    {
+      "path": "assets/README.md",
+      "bytes": 165,
+      "sha256": "fcb40c80adaaaadf3aaca150b90cfeb040ab4ed56632b3cc18edc630e81a89d4"
+    },
+    {
+      "path": "assets/fonts/Barlow-Medium.ttf",
+      "bytes": 103536,
+      "sha256": "f8906f762cb73dca441da034bc363b2d8e2e68bc10d5c05e58717646c20cc4b4"
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed-BlackItalic.ttf",
+      "bytes": 112592,
+      "sha256": "e1ed5d7e50c6a4498454d40509ce2362384a2c7870df3418fdbd010f81dffad3"
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed-SemiBold.ttf",
+      "bytes": 109428,
+      "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9"
+    },
+    {
+      "path": "assets/fonts/Geist-OFL.txt",
+      "bytes": 4387,
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+    },
+    {
+      "path": "assets/fonts/Geist-Variable.ttf",
+      "bytes": 169056,
+      "sha256": "73894e0448cae90a92b6c2f8732b7bb9acb7b94c418bff559dad4a18e1de9659"
+    },
+    {
+      "path": "assets/fonts/GeistMono-OFL.txt",
+      "bytes": 4387,
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+    },
+    {
+      "path": "assets/fonts/GeistMono-Variable.ttf",
+      "bytes": 171948,
+      "sha256": "d00e590b8eb3a59acc329b2d044fd143ae935090b7da33199ebee27cc7de8196"
+    },
+    {
+      "path": "assets/fonts/InstrumentSerif-Italic.ttf",
+      "bytes": 71592,
+      "sha256": "08939b8bdf534afec24ae0ef5e03f948940cd9a8fe08e7fecbad040e62327385"
+    },
+    {
+      "path": "assets/fonts/InstrumentSerif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "path": "assets/fonts/InstrumentSerif-Regular.ttf",
+      "bytes": 70012,
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88"
+    },
+    {
+      "path": "assets/fonts/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "assets/fonts/Inter-Variable.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "assets/raw.mp4",
+      "bytes": 1101889,
+      "sha256": "818291ad7087a70457b2439442d4eec2f0142625558300c197fc6ce8acfd2b21"
+    },
+    {
+      "path": "assets/style-reference-v2.mp4",
+      "bytes": 27117601,
+      "sha256": "b99467aeaf8fb16ce45837acdf0d7bd1c65450b0746aac8ee67fc940aba3f0ca"
+    },
+    {
+      "path": "assets/style-reference.mp4",
+      "bytes": 4317118,
+      "sha256": "f28b2c71e31c611e4baf0bb5d412ce01b4ef3077a68a622d0ee80099f7bce627"
+    },
+    {
+      "path": "edits/voice-agents-9x16/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "edits/voice-agents-9x16/README.md",
+      "bytes": 1454,
+      "sha256": "150ed0414de815e5081da32541e1e04c7bd422c2e46021ba2ff399a77aaffcfe"
+    },
+    {
+      "path": "edits/voice-agents-9x16/captions.srt",
+      "bytes": 1098,
+      "sha256": "fc637ebc409b6c699d09487613dd071b08ab5258e3d7abd126f274c86ad72437"
+    },
+    {
+      "path": "edits/voice-agents-9x16/poster.jpg",
+      "bytes": 238460,
+      "sha256": "a94e12b0e02542fd948010da5badabf63c40c86fc4d9ec16b47b9a43f94985ff"
+    },
+    {
+      "path": "edits/voice-agents-9x16/voice-agents-9x16.mp4",
+      "bytes": 10688724,
+      "sha256": "91a6133425a322dc72ae57741c8b6dc7a1505e91d70a3b4281e4a7166f9bda88"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/README.md",
+      "bytes": 1658,
+      "sha256": "9076111646a16e6904b176d5b0684b00f63692c19f150130103f37f193b57e06"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/captions.srt",
+      "bytes": 1098,
+      "sha256": "fc637ebc409b6c699d09487613dd071b08ab5258e3d7abd126f274c86ad72437"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/poster.jpg",
+      "bytes": 189748,
+      "sha256": "d2059b7545363b1f5429a844c4647f0af34f9c34b92609c6e71a5fd00b602849"
+    },
+    {
+      "path": "edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4",
+      "bytes": 4415601,
+      "sha256": "3bb67faa8dca609de1d8ffed3f19e84d14a0ed7721609a0d775ee78d54eebbc3"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/README.md",
+      "bytes": 3101,
+      "sha256": "7d670de5500f4a54cc6dbe37b994f73d9979b0bec1161f6083f87e59aff16b5a"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/captions.srt",
+      "bytes": 1098,
+      "sha256": "fc637ebc409b6c699d09487613dd071b08ab5258e3d7abd126f274c86ad72437"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/poster.jpg",
+      "bytes": 188215,
+      "sha256": "b180645181d094798bab5a636243f47976e78d0f45faf41838106f692025c042"
+    },
+    {
+      "path": "edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4",
+      "bytes": 5902296,
+      "sha256": "1257620122fe793eb95985f128d4f3be455baeb874795a1ef0860628c931036d"
+    },
+    {
+      "path": "source/audio.py",
+      "bytes": 5249,
+      "sha256": "a0f2d5b0812fb1a72e8b11e93462aa306519a66bef604e676b9442893c87f564"
+    },
+    {
+      "path": "source/audio_editorial_v2.py",
+      "bytes": 2642,
+      "sha256": "4c5a6c21ec87dd17b95755ea625395beca074996f47d93e74b5e1b05bb07ad1e"
+    },
+    {
+      "path": "source/audio_morph_v3.py",
+      "bytes": 3223,
+      "sha256": "e412851f9ae6ffe95ea2c750b1d10b5230e5c8c2c150a0effe984356620b72e1"
+    },
+    {
+      "path": "source/render.py",
+      "bytes": 19226,
+      "sha256": "ace6a62273275b43aafbf118aa04655ca7b76046691783b4cff9285316318c83"
+    },
+    {
+      "path": "source/render_editorial_v2.py",
+      "bytes": 18411,
+      "sha256": "16603035354635c0f3c5436c1a44020a041d391000e3082436e21b02f85291ad"
+    },
+    {
+      "path": "source/render_morph_v3.py",
+      "bytes": 22016,
+      "sha256": "800c40d08fda7d9e00477c29c80d27b7f8efb974e50bb0d1187d89eac6e09916"
+    },
+    {
+      "path": "source/transcribe.py",
+      "bytes": 1202,
+      "sha256": "053f599178f4436f1ce2ed5e248b501158a2457516e12e4547c2d233a7e0d773"
+    }
+  ],
+  "note": "Pre-task hashes. No source/old archive modifications authorized."
+}

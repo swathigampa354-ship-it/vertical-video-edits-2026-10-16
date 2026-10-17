@@ -1,0 +1,55 @@
+{
+  "repository": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+  "entries": [
+    {
+      "slug": "twoclipping-402193",
+      "author": "twoclipping",
+      "author_url": "https://x.com/twoclipping",
+      "post_url": "https://x.com/twoclipping/status/2103273003555402193",
+      "category": "motion",
+      "tech_tags": [
+        "svg"
+      ],
+      "prompt": "<inputs>\nAsk me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. The last frame is the first frame, so it loops.\nBanned: bouncy easing, particle bursts, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something happens on every beat.\nButton \u2192 loader \u2192 check \u2192 dynamic island \u2192 music player with a play/pause morph \u2192 scrub the progress bar \u2192 it becomes a volume slider that stretches when dragged past max \u2192 a toggle flips on the beat \u2192 the knob becomes a liquid tab indicator \u2192 the tabs open into a chart that draws itself, with a tooltip on hover \u2192 it collapses into \u2318K \u2192 type to filter \u2192 enter \u2192 toast \u2192 back to the button.\n</structure>\n\n<build>\n1. One HTML file, square 1440x1440. Every style is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change, so it stays a pure function of time.\n3. The tab indicator's two edges ride different springs, so the leading edge stretches ahead of the trailing one. Same trick for the toggle knob.\n4. Drags are direct manipulation: while the cursor is held, the value is computed from its position. On release it springs back from wherever it was.\n5. Analyze the song with numpy for the beat grid and start on a downbeat. Place every UI sound by its measured peak.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat before the full render. Fix anything off the grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNever put will-change on anything the camera scales or the text renders blurry. Text that swaps inside a morphing container needs its own enter and exit timing or it overlaps. Make the last frame identical to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+      "prompt_partial": false,
+      "poster_url": "https://media.skillry.dev/opus-5-5/twoclipping-402193/original.9c664f011f.webp",
+      "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/twoclipping-402193",
+      "added": "2026-09-26",
+      "has_remake": true
+    },
+    {
+      "slug": "moritzkremb-466494",
+      "author": "moritzkremb",
+      "author_url": "https://x.com/moritzkremb",
+      "post_url": "https://x.com/moritzkremb/status/2103066071838466494",
+      "category": "motion",
+      "tech_tags": [
+        "svg",
+        "gsap"
+      ],
+      "prompt": "I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's easier to identify with it. Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, motion-graphics-styled product launch videos that you see people making on Twitter when they launch new SaaS products (which are showing off the features, the benefits, and all of these things).",
+      "prompt_partial": false,
+      "poster_url": "https://media.skillry.dev/opus-5-5/moritzkremb-466494/original.dc5bd867e2.webp",
+      "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/moritzkremb-466494",
+      "added": "2026-09-26",
+      "has_remake": true
+    },
+    {
+      "slug": "heyiammallik-293397",
+      "author": "heyiammallik",
+      "author_url": "https://x.com/heyiammallik",
+      "post_url": "https://x.com/heyiammallik/status/2103837803587293397",
+      "category": "motion",
+      "tech_tags": [
+        "threejs",
+        "canvas"
+      ],
+      "prompt": "you are a pro motion designer. analyze my portfolio and make a ~30 second video from it. check what are the recent trending techniques used for motion and sound design. question your strategy and plan, if it doesn't feel like done by a pro designer, start over. every frame matters from the first frame to the final frame. go crazy",
+      "prompt_partial": false,
+      "poster_url": "https://media.skillry.dev/opus-5-5/heyiammallik-293397/original.7068f7995f.webp",
+      "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/heyiammallik-293397",
+      "added": "2026-09-26",
+      "has_remake": true
+    }
+  ]
+}

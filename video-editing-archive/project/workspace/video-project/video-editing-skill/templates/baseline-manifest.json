@@ -1,0 +1,23 @@
+{
+  "v1": {
+    "folder": "voice-agents-9x16",
+    "reference_sha256": "91a6133425a322dc72ae57741c8b6dc7a1505e91d70a3b4281e4a7166f9bda88",
+    "fps": 30,
+    "frames": 641,
+    "reference_url": "https://raw.githubusercontent.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/main/edits/voice-agents-9x16/voice-agents-9x16.mp4"
+  },
+  "v2": {
+    "folder": "voice-agents-editorial-v2",
+    "reference_sha256": "3bb67faa8dca609de1d8ffed3f19e84d14a0ed7721609a0d775ee78d54eebbc3",
+    "fps": 30,
+    "frames": 641,
+    "reference_url": "https://raw.githubusercontent.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/main/edits/voice-agents-editorial-v2/voice-agents-editorial-v2.mp4"
+  },
+  "v3": {
+    "folder": "voice-agents-morph-v3",
+    "reference_sha256": "1257620122fe793eb95985f128d4f3be455baeb874795a1ef0860628c931036d",
+    "fps": 60,
+    "frames": 1282,
+    "reference_url": "https://raw.githubusercontent.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/main/edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4"
+  }
+}

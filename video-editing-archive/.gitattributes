@@ -1,0 +1,6 @@
+# Byte-exact archival objects: no line-ending conversions or LFS filters.
+* -text -filter
+# Immutable source copies retain original whitespace; new docs/scripts still checked.
+project/** -whitespace
+skills/** -whitespace
+assets/** -whitespace

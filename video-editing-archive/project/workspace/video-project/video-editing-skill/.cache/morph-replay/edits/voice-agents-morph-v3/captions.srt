@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:00,660
+I think a lot of
+
+2
+00:00:00,660 --> 00:00:01,910
+companies that are startups,
+
+3
+00:00:02,260 --> 00:00:03,520
+they spend many years
+
+4
+00:00:03,520 --> 00:00:04,570
+before they go international
+
+5
+00:00:04,940 --> 00:00:05,680
+because, you know,
+
+6
+00:00:05,680 --> 00:00:06,700
+it takes a lot of
+
+7
+00:00:06,700 --> 00:00:07,430
+effort to do that.
+
+8
+00:00:07,520 --> 00:00:07,950
+I think for us,
+
+9
+00:00:07,980 --> 00:00:09,280
+we kind of early on
+
+10
+00:00:09,280 --> 00:00:10,160
+realized that that's going to
+
+11
+00:00:10,160 --> 00:00:10,680
+be super important.
+
+12
+00:00:10,680 --> 00:00:11,620
+So we invested a lot
+
+13
+00:00:11,620 --> 00:00:11,990
+in that.
+
+14
+00:00:12,540 --> 00:00:13,500
+And so when we bring
+
+15
+00:00:13,500 --> 00:00:14,250
+this product to market,
+
+16
+00:00:14,380 --> 00:00:15,040
+really, what we're trying to
+
+17
+00:00:15,040 --> 00:00:16,070
+do is help people,
+
+18
+00:00:16,600 --> 00:00:17,900
+businesses, developers,
+
+19
+00:00:17,900 --> 00:00:19,320
+and governments build
+
+20
+00:00:19,320 --> 00:00:20,420
+great voice agents.

@@ -1,0 +1,14 @@
+{
+  "python": "3.13.16",
+  "packages": {
+    "numpy": "2.3.5",
+    "Pillow": "12.3.0",
+    "opencv-python": "4.11.0.86",
+    "soundfile": "0.13.1",
+    "scipy": "1.17.1",
+    "PyYAML": "6.0.3",
+    "fonttools": "4.66.1",
+    "imageio-ffmpeg": "0.6.0"
+  },
+  "notes": "Actual test host package observations; ASR model download is not implied. Dependency resolution on another OS/Python must be validated."
+}

@@ -1,0 +1,17 @@
+# Archive-local exclusions only; no root ignore rules are changed.
+__pycache__/
+*.pyc
+.venv/
+.runtime/
+.env
+.env.*
+*.token
+*.key
+*.pem
+# Reproduction output is not historical evidence and needs explicit delivery review.
+references/source-snapshot/edits/**/*.mp4
+references/source-snapshot/edits/**/poster.jpg
+references/source-snapshot/analysis/visuals.mp4
+references/source-snapshot/analysis/voice-normalized.wav
+references/source-snapshot/analysis/final-audio.wav
+references/source-snapshot/analysis/original-bed.wav

@@ -1,0 +1,2 @@
+# Optional only when a trustworthy word-timed transcript is not supplied.
+faster-whisper>=1.0

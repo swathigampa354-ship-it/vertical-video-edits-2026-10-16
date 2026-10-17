@@ -1,0 +1,13 @@
+COMPLETE VIDEO-EDITING PROJECT ARCHIVE
+
+Existing repository: https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16.git
+Destination branch: main
+Starting commit: 29432018c21772886e0eb1f64d1690f7f510c3b6
+
+The project produced three separate 9:16,1080x1920 source-speech edits and a reusable editing skill. V1 sports, V2 orange/black/cream editorial, V3 cobalt/off-white continuous UI morph. Source is640x360; V1/V2 30fps, V3 60fps graphics. Do not claim native1080p source detail.
+
+All available project source, raw/reference footage, final movies, intermediate renders/WAVs, original PDF/page images, complete skills, fonts/licences, test/draft caches and the actual installed FFmpeg dependency are preserved. Failed/draft test artifacts remain evidence, not necessarily valid production plans.
+
+The most accessible production entry is skills/video-editing-skill/SKILL.md. Its references/scripts/fonts/examples are present; no previous chat/agent ID is required. The full original tree is mirrored under project/workspace/video-project/. Recover original documentation names with restore_archive.py when an exact workspace is desired.
+
+Shared Python/system packages are not project-owned files. Their observed versions/requirements are preserved; a compatible Python/runtime still needs those normal dependencies. The installed imageio-ffmpeg tree, binary and exact wheel are included. No credential is required to render supplied local media.

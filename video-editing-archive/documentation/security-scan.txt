@@ -1,0 +1,9 @@
+SECURITY / PRE-PUSH CHECK
+
+Actual read-only scan snapshot:795 archive files,184 expanded ZIP/wheel members,three exact previously shared sensitive values checked in memory,zero findings. Values were not printed or stored. Public-key/token/private-key-material patterns were also checked. This report is generated afterward from the observed result; a scan is not a mathematical guarantee about unknown secrets.
+
+No required source file omitted/redacted. Protected Git metadata and shared HTTP cache metadata remain outside the payload. Actual copied source bytes matched694 included original file records across777 archive paths. New documentation is TXT;61 actual skill Markdown files/resources are explicitly whitelisted.
+
+Largest file79,826,272 bytes, below100MiB GitHub hard limit. Git LFS not installed and not required; files are actual ordinary Git objects. A50MiB warning on FFmpeg is expected and is not a missing upload.
+
+Force-add is used only to include otherwise ignored generated/cache files in this new archive folder. This is not a force-push. No unrelated staged paths or source modifications are permitted.

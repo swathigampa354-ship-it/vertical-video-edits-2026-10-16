@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "source_sha256": "6317fe6b05408e9b3deac8ccca45dbc2218b3347d66dcfc41f3807f8c8da301c",
+  "transcript": "transcript.json",
+  "clip_start": 0,
+  "clip_end": 2.39,
+  "duration": 3.0,
+  "fps": 30,
+  "safe_profile": "mobile-conservative",
+  "logos": [
+    {
+      "asset": "test-logo.png",
+      "rect": [
+        0.08,
+        0.1,
+        0.16,
+        0.026
+      ],
+      "plate": [
+        255,
+        252,
+        244
+      ],
+      "required": true
+    }
+  ],
+  "avoid_regions": [
+    {
+      "start": 0,
+      "end": 1.0,
+      "rect": [
+        0.28,
+        0.3,
+        0.44,
+        0.38
+      ]
+    },
+    {
+      "start": 1.0,
+      "end": 1.8,
+      "rect": [
+        0.3,
+        0.53,
+        0.4,
+        0.225
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "portrait-intro",
+      "start": 0,
+      "end": 1.0,
+      "background": [
+        3,
+        3,
+        3
+      ],
+      "layers": [
+        {
+          "kind": "text",
+          "text": "A priority.",
+          "font": "italic",
+          "font_px": 130,
+          "rect": [
+            0.12,
+            0.17,
+            0.72,
+            0.08
+          ]
+        },
+        {
+          "kind": "video",
+          "rect": [
+            0.28,
+            0.3,
+            0.44,
+            0.43
+          ],
+          "fit": "contain",
+          "radius": 28
+        },
+        {
+          "kind": "caption",
+          "rect": [
+            0.09,
+            0.77,
+            0.76,
+            0.055
+          ],
+          "font_px": 54
+        }
+      ]
+    },
+    {
+      "id": "faithful-quote",
+      "start": 1.0,
+      "end": 1.8,
+      "background": [
+        237,
+        234,
+        230
+      ],
+      "grid": true,
+      "transition": {
+        "kind": "crossfade",
+        "seconds": 0.14
+      },
+      "layers": [
+        {
+          "kind": "quote",
+          "range": [
+            0.68,
+            1.14
+          ],
+          "rect": [
+            0.1,
+            0.21,
+            0.72,
+            0.23
+          ],
+          "font_px": 112,
+          "color": [
+            11,
+            12,
+            12
+          ]
+        },
+        {
+          "kind": "video",
+          "rect": [
+            0.3,
+            0.53,
+            0.4,
+            0.225
+          ],
+          "mask": "circle",
+          "fit": "contain"
+        }
+      ]
+    },
+    {
+      "id": "payoff",
+      "start": 1.8,
+      "end": 3.0,
+      "background": [
+        251,
+        73,
+        8
+      ],
+      "transition": {
+        "kind": "wipe",
+        "seconds": 0.14
+      },
+      "layers": [
+        {
+          "kind": "text",
+          "text": "Invested.",
+          "font": "italic",
+          "font_px": 220,
+          "rect": [
+            0.12,
+            0.28,
+            0.72,
+            0.16
+          ]
+        },
+        {
+          "kind": "text",
+          "text": "a lot in that.",
+          "font": "italic",
+          "font_px": 105,
+          "rect": [
+            0.12,
+            0.48,
+            0.72,
+            0.09
+          ]
+        },
+        {
+          "kind": "waveform",
+          "rect": [
+            0.18,
+            0.7,
+            0.64,
+            0.06
+          ],
+          "color": [
+            255,
+            252,
+            244
+          ]
+        }
+      ]
+    }
+  ]
+}

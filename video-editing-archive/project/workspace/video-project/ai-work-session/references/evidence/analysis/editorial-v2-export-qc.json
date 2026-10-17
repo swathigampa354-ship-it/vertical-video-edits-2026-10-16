@@ -1,0 +1,24 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "frames": 641,
+  "bytes": 4415601,
+  "duration": 21.366666666666667,
+  "fullDecodePassed": true,
+  "voiceTimingOffsetMs": 0.0,
+  "loudness": {
+    "input_i": "-15.90",
+    "input_tp": "-1.64",
+    "input_lra": "1.80",
+    "input_thresh": "-26.23",
+    "output_i": "-16.00",
+    "output_tp": "-1.50",
+    "output_lra": "1.40",
+    "output_thresh": "-26.34",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "sha256": "3bb67faa8dca609de1d8ffed3f19e84d14a0ed7721609a0d775ee78d54eebbc3",
+  "referenceMediaReused": false
+}

@@ -1,0 +1,14 @@
+{
+  "_instructions": "Agent-authored template only. Inspect the NEW source, generate/review its word timings, replace fingerprint/times and design contiguous semantic scenes. This is intentionally not runnable as-is.",
+  "version": 1,
+  "source_sha256": "REPLACE_WITH_NEW_WORKING_SOURCE_SHA256",
+  "transcript": "transcript.json",
+  "clip_start": 0,
+  "clip_end": 0,
+  "duration": 0,
+  "fps": 30,
+  "safe_profile": "mobile-conservative",
+  "logos": [],
+  "avoid_regions": [],
+  "scenes": []
+}

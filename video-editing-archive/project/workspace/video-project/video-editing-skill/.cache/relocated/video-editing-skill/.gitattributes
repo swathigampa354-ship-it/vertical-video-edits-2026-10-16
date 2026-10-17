@@ -1,0 +1,2 @@
+# Preserve original licensed font text byte-for-byte, including its source whitespace.
+assets/fonts/*OFL.txt -whitespace

@@ -1,0 +1,6 @@
+{
+  "framesChecked": 90,
+  "violations": [],
+  "pass": true,
+  "scope": "All-frame geometric checks only. Semantic crop/brand readability/contrast/manual viewing remain required."
+}

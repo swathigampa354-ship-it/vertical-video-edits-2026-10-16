@@ -1,0 +1,98 @@
+{
+  "allowed_markdown": [
+    "project/workspace/video-project/ai-work-session/COMMANDS_AND_TOOLS.md",
+    "project/workspace/video-project/ai-work-session/CONTINUE.md",
+    "project/workspace/video-project/ai-work-session/DECISION_LOG.md",
+    "project/workspace/video-project/ai-work-session/ERRORS_AND_SOLUTIONS.md",
+    "project/workspace/video-project/ai-work-session/FILE_CHANGE_LOG.md",
+    "project/workspace/video-project/ai-work-session/PROJECT_CONTEXT.md",
+    "project/workspace/video-project/ai-work-session/SESSION_ARCHIVE.md",
+    "project/workspace/video-project/ai-work-session/SKILL.md",
+    "project/workspace/video-project/ai-work-session/VERIFICATION_REPORT.md",
+    "project/workspace/video-project/ai-work-session/references/evidence/analysis/scene-plan-editorial-v2.md",
+    "project/workspace/video-project/ai-work-session/references/evidence/analysis/scene-plan-morph-v3.md",
+    "project/workspace/video-project/ai-work-session/references/evidence/analysis/scene-plan.md",
+    "project/workspace/video-project/ai-work-session/references/evidence/tool-ledger.md",
+    "project/workspace/video-project/ai-work-session/references/evidence/visible-dialogue.md",
+    "project/workspace/video-project/ai-work-session/references/requirements.md",
+    "project/workspace/video-project/ai-work-session/references/session_index.md",
+    "project/workspace/video-project/ai-work-session/references/source-snapshot/README.md",
+    "project/workspace/video-project/ai-work-session/references/technical_details.md",
+    "project/workspace/video-project/ai-work-session/references/troubleshooting.md",
+    "project/workspace/video-project/edits/voice-agents-9x16/README.md",
+    "project/workspace/video-project/edits/voice-agents-editorial-v2/README.md",
+    "project/workspace/video-project/edits/voice-agents-morph-v3/README.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/README.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/SKILL.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/TEST_REPORT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/PLACEMENT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/PLAN_FORMAT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/QC.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/SETUP.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/VISUAL_STANDARD.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/WORKFLOW.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/tests/README.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/README.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/SKILL.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/TEST_REPORT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/PLACEMENT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/PLAN_FORMAT.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/QC.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/SETUP.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/VISUAL_STANDARD.md",
+    "project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/WORKFLOW.md",
+    "project/workspace/video-project/video-editing-skill/README.md",
+    "project/workspace/video-project/video-editing-skill/SKILL.md",
+    "project/workspace/video-project/video-editing-skill/TEST_REPORT.md",
+    "project/workspace/video-project/video-editing-skill/references/PLACEMENT.md",
+    "project/workspace/video-project/video-editing-skill/references/PLAN_FORMAT.md",
+    "project/workspace/video-project/video-editing-skill/references/QC.md",
+    "project/workspace/video-project/video-editing-skill/references/SETUP.md",
+    "project/workspace/video-project/video-editing-skill/references/VISUAL_STANDARD.md",
+    "project/workspace/video-project/video-editing-skill/references/WORKFLOW.md",
+    "project/workspace/video-project/video-editing-skill/tests/README.md",
+    "skills/video-editing-skill/README.md",
+    "skills/video-editing-skill/SKILL.md",
+    "skills/video-editing-skill/TEST_REPORT.md",
+    "skills/video-editing-skill/references/PLACEMENT.md",
+    "skills/video-editing-skill/references/PLAN_FORMAT.md",
+    "skills/video-editing-skill/references/QC.md",
+    "skills/video-editing-skill/references/SETUP.md",
+    "skills/video-editing-skill/references/VISUAL_STANDARD.md",
+    "skills/video-editing-skill/references/WORKFLOW.md",
+    "skills/video-editing-skill/tests/README.md"
+  ],
+  "exception_rule": "Only actual SKILL.md and its necessary local skill resources/references. New general documentation is TXT/PDF. Original immutable wheel/ZIP internals retain their functional formats.",
+  "ordinary_markdown_conversions": [
+    {
+      "source_group": "project",
+      "source": "README.md",
+      "archive": "project/workspace/video-project/README.txt"
+    },
+    {
+      "source_group": "project",
+      "source": "analysis/scene-plan-morph-v3.md",
+      "archive": "project/workspace/video-project/analysis/scene-plan-morph-v3.txt"
+    },
+    {
+      "source_group": "project",
+      "source": "analysis/scene-plan.md",
+      "archive": "project/workspace/video-project/analysis/scene-plan.txt"
+    },
+    {
+      "source_group": "project",
+      "source": "analysis/scene-plan-editorial-v2.md",
+      "archive": "project/workspace/video-project/analysis/scene-plan-editorial-v2.txt"
+    },
+    {
+      "source_group": "project",
+      "source": "video-editing-skill/.cache/pydeps/imageio_ffmpeg/binaries/README.md",
+      "archive": "project/workspace/video-project/video-editing-skill/.cache/pydeps/imageio_ffmpeg/binaries/README.txt"
+    },
+    {
+      "source_group": "project",
+      "source": "assets/README.md",
+      "archive": "project/workspace/video-project/assets/README.txt"
+    }
+  ]
+}

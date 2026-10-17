@@ -1,0 +1,9 @@
+.cache/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+# User-job outputs belong in a separate approved job/revision directory.

@@ -1,0 +1,39 @@
+{
+  "machinePass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "decodedFrames": 90,
+  "blackFrames": [],
+  "sourceLagWindows": [
+    {
+      "at": 0.05,
+      "lag_ms": 0.0
+    },
+    {
+      "at": 0.89625,
+      "lag_ms": -0.0625
+    },
+    {
+      "at": 1.7425,
+      "lag_ms": -0.0625
+    }
+  ],
+  "loudness": {
+    "input_i": "-16.56",
+    "input_tp": "-4.24",
+    "input_lra": "0.30",
+    "input_thresh": "-26.72",
+    "output_i": "-15.26",
+    "output_tp": "-3.14",
+    "output_lra": "0.00",
+    "output_thresh": "-25.43",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.74"
+  },
+  "allFramePlacementPass": true,
+  "sha256": "584378438f6b17a08cdfa23377dbedb3044b0ccaa72f5478e55f25f7ad7f3376",
+  "manualInspectionRequired": true,
+  "manualInspectionComplete": false,
+  "warning": "Machine pass does not certify visual/semantic quality. Inspect encoded frames and moving crop/logo placement, then complete the human/agent review checklist."
+}

@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.89,
+      "text": "that that's going to be super important. So we invested a lot in that.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.3200000000000003,
+          "word": "that",
+          "probability": 0.9649122953414917
+        },
+        {
+          "start": 0.3200000000000003,
+          "end": 0.4200000000000017,
+          "word": "that's",
+          "probability": 0.7705191373825073
+        },
+        {
+          "start": 0.4200000000000017,
+          "end": 0.5400000000000009,
+          "word": "going",
+          "probability": 0.9301140308380127
+        },
+        {
+          "start": 0.5400000000000009,
+          "end": 0.620000000000001,
+          "word": "to",
+          "probability": 0.9989022016525269
+        },
+        {
+          "start": 0.620000000000001,
+          "end": 0.6800000000000015,
+          "word": "be",
+          "probability": 0.999257504940033
+        },
+        {
+          "start": 0.6800000000000015,
+          "end": 0.8600000000000012,
+          "word": "super",
+          "probability": 0.9982155561447144
+        },
+        {
+          "start": 0.8600000000000012,
+          "end": 1.1400000000000006,
+          "word": "important.",
+          "probability": 0.9954829216003418
+        },
+        {
+          "start": 1.1400000000000006,
+          "end": 1.4200000000000017,
+          "word": "So",
+          "probability": 0.9516792297363281
+        },
+        {
+          "start": 1.4200000000000017,
+          "end": 1.5,
+          "word": "we",
+          "probability": 0.904956579208374
+        },
+        {
+          "start": 1.5,
+          "end": 1.7200000000000006,
+          "word": "invested",
+          "probability": 0.9819951057434082
+        },
+        {
+          "start": 1.7200000000000006,
+          "end": 1.9200000000000017,
+          "word": "a",
+          "probability": 0.9913126826286316
+        },
+        {
+          "start": 1.9200000000000017,
+          "end": 2.08,
+          "word": "lot",
+          "probability": 0.9985311031341553
+        },
+        {
+          "start": 2.08,
+          "end": 2.24,
+          "word": "in",
+          "probability": 0.9887166023254395
+        },
+        {
+          "start": 2.24,
+          "end": 2.380000000000001,
+          "word": "that.",
+          "probability": 0.9970664381980896
+        }
+      ]
+    }
+  ],
+  "source_sha256": "6317fe6b05408e9b3deac8ccca45dbc2218b3347d66dcfc41f3807f8c8da301c"
+}

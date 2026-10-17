@@ -1,0 +1,15 @@
+{
+  "test": "Original v3 regression, not a new-footage workflow",
+  "source_sha256": "818291ad7087a70457b2439442d4eec2f0142625558300c197fc6ce8acfd2b21",
+  "only_source_changes": "Both runtime copies replace only the absolute cache assignment with ROOT/cache. No timing/layout/audio logic changed.",
+  "render_sha256": "654d0908a400957e78415676860041c5039fb2fda543a6951959f8b9fc415323",
+  "fullDecodePassed": true,
+  "visualComparisonPerformed": true,
+  "reference_sha256": "1257620122fe793eb95985f128d4f3be455baeb874795a1ef0860628c931036d",
+  "decodedFramesCompared": 1282,
+  "identicalDecodedFrames": 1282,
+  "meanFrameRGB_MAE": 0.0,
+  "maxFrameRGB_MAE": 0.0,
+  "comparisonPass": true,
+  "warning": "Pixel similarity is a regression check on this exact fixture, not a guarantee of equivalent creative quality on unrelated footage."
+}

@@ -1,0 +1,93 @@
+{
+  "result": "PASS",
+  "method": "Extracted the ZIP into a different absolute directory; invoked the packaged CLI from /home/user, outside the original project CWD. Input/transcript/fonts/templates were read only from that extracted package.",
+  "inspectorDimensions": [
+    202,
+    360
+  ],
+  "validatePlanPassed": true,
+  "stillsGeneratedAndInspectedBeforeRender": true,
+  "renderAndFullQC": {
+    "machinePass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "decodedFrames": 90,
+    "blackFrames": [],
+    "sourceLagWindows": [
+      {
+        "at": 0.05,
+        "lag_ms": 0.0
+      },
+      {
+        "at": 0.89625,
+        "lag_ms": -0.0625
+      },
+      {
+        "at": 1.7425,
+        "lag_ms": -0.0625
+      }
+    ],
+    "loudness": {
+      "input_i": "-16.56",
+      "input_tp": "-4.24",
+      "input_lra": "0.30",
+      "input_thresh": "-26.72",
+      "output_i": "-15.26",
+      "output_tp": "-3.14",
+      "output_lra": "0.00",
+      "output_thresh": "-25.43",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.74"
+    },
+    "allFramePlacementPass": true,
+    "sha256": "a2f6eadc837fba2c2c66e1114dcabcf9c9aa508862afd201d3b8252da27a623e",
+    "manualInspectionRequired": true,
+    "manualInspectionComplete": false,
+    "warning": "Machine pass does not certify visual/semantic quality. Inspect encoded frames and moving crop/logo placement, then complete the human/agent review checklist."
+  },
+  "negativeTests": [
+    {
+      "test": "different source rejected",
+      "pass": true
+    },
+    {
+      "test": "out-of-safe logo detected",
+      "pass": true
+    },
+    {
+      "test": "logo/face-region collision detected",
+      "pass": true
+    },
+    {
+      "test": "timeline gap rejected",
+      "pass": true
+    },
+    {
+      "test": "moving logo late boundary crossing detected",
+      "pass": true
+    },
+    {
+      "test": "quote end boundary excludes next sentence",
+      "pass": true
+    },
+    {
+      "test": "screen logo unchanged across every pre-encode frame and background transition",
+      "frames": 90,
+      "pass": true
+    },
+    {
+      "test": "white-on-white logo rejected",
+      "pass": true
+    },
+    {
+      "test": "old/wrong-source transcript rejected",
+      "pass": true
+    }
+  ],
+  "customSceneModuleImportValidated": true,
+  "customSceneExampleFramePreviouslyTested": true,
+  "jobFontOverrideEquivalentFrameTested": true,
+  "runtimeDependencyNote": "Normal installed host dependencies plus the isolated imageio-ffmpeg dependency prefix were used; executables/dependencies are explicitly not bundled.",
+  "scopeLimit": "Path relocation and controlled fixture were tested, not a second actual LLM identity, unrelated footage or every host OS."
+}

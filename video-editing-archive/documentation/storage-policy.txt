@@ -1,0 +1,8 @@
+STORAGE AND FORMAT
+
+Official policy checked: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+Ordinary Git warns above50MiB and blocks above100MiB. Largest payload file is79,826,272 bytes (~76.13MiB), so no file requires LFS. Git LFS is not installed; no pointer substitution is used. All movies and runtime binaries are actual Git objects. Push/archive limits and repository policy are checked before publication.
+
+New documentation is TXT (and original PDFs). Original Markdown is retained only where required by real agent skills/reference relationships, explicitly enumerated in configs/layout.json. Other Markdown documentation is copied byte-for-byte under a .txt filename. Source/config/media formats and functional package metadata/licences are not renamed. Original immutable portable-skill ZIPs and the dependency wheel keep their internal files/checksums.
+
+The full mirror preserves nested/hidden/generated files; Git ignore rules do not remove them from this archive. Protected .git data and shared global caches are not project payload and are explicitly listed rather than silently omitted. Source-mirror and canonical-skill/wheel alias duplicates are intentional.

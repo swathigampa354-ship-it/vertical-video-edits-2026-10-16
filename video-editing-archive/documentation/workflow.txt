@@ -1,0 +1,12 @@
+RECOVER AND USE
+
+1. Clone the same public GitHub repository and locate video-editing-archive/.
+2. Run: python scripts/verify_archive.py --root /path/to/video-editing-archive
+3. Read skills/video-editing-skill/SKILL.md and its bundled references. Supply NEW raw footage; do not blindly reuse old timestamps/coordinates.
+4. Use the documented inspect/transcribe/plan/stills/render/QC/review workflow. No logo is invented; original edits had no added brand logo.
+5. For an exact original workspace layout: python scripts/restore_archive.py --root /path/to/archive --destination /new/empty/restore
+   Original filenames/document extensions are restored under workspace/video-project, external PDF/page-image directories and dependency-cache. No original absolute path/global cache is overwritten.
+6. The same-source regressions, portrait adaptation and actual test evidence are preserved. No universal creative-quality, multilingual/HDR/VFR/tracked-logo or second-model guarantee is inferred from those tests.
+
+DEPENDENCIES
+The exact FFmpeg wheel is under assets/dependencies. The installed package/binary is also preserved inside the mirrored project runtime cache. Use its PYTHONPATH/binary from the new archive location or install the archived wheel into an isolated environment. Other direct requirements and observed versions are inside the skill.

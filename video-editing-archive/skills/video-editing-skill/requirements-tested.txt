@@ -1,0 +1,10 @@
+# Exact directly imported package versions observed in this tested host.
+# Not a complete transitive lock and not a promise of availability on every Python/OS.
+numpy==2.3.5
+Pillow==12.3.0
+opencv-python==4.11.0.86
+soundfile==0.13.1
+scipy==1.17.1
+PyYAML==6.0.3
+fonttools==4.66.1
+imageio-ffmpeg==0.6.0

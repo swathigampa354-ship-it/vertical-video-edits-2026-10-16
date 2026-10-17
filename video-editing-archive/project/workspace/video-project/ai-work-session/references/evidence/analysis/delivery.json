@@ -1,0 +1,26 @@
+{
+  "repository": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+  "visibility": "public",
+  "commit": "259322a84466717696742bed27bb8d7d4c3b7149",
+  "folder_url": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/tree/main/edits/voice-agents-9x16",
+  "video_url": "https://raw.githubusercontent.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16/main/edits/voice-agents-9x16/voice-agents-9x16.mp4",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 1454
+    },
+    {
+      "name": "captions.srt",
+      "bytes": 1098
+    },
+    {
+      "name": "poster.jpg",
+      "bytes": 238460
+    },
+    {
+      "name": "voice-agents-9x16.mp4",
+      "bytes": 10688724
+    }
+  ],
+  "publicMediaHttpStatus": 206
+}

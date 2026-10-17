@@ -1,0 +1,49 @@
+{
+  "service": "Browserless shared cloud",
+  "route": "/function",
+  "startedAtUtc": "2026-10-16T11:42:35Z",
+  "keysStoredInFiles": false,
+  "httpStatus": 200,
+  "requestIdentifiers": {},
+  "result": {
+    "results": [
+      {
+        "name": "raw",
+        "videoId": "FcvFNbcCL98",
+        "pageHttpStatus": 200,
+        "playabilityStatus": "LOGIN_REQUIRED",
+        "reason": "Sign in to confirm you\u2019re not a bot",
+        "playback": {
+          "currentTime": 0,
+          "duration": null,
+          "paused": false,
+          "readyState": 0,
+          "width": 0,
+          "height": 0,
+          "errorCode": null
+        },
+        "availableFormatCount": 0
+      },
+      {
+        "name": "style-reference",
+        "videoId": "Xv_gLzEJY7Q",
+        "pageHttpStatus": 200,
+        "playabilityStatus": "LOGIN_REQUIRED",
+        "reason": "Sign in to confirm you\u2019re not a bot",
+        "playback": {
+          "currentTime": 0,
+          "duration": null,
+          "paused": false,
+          "readyState": 0,
+          "width": 0,
+          "height": 0,
+          "errorCode": null
+        },
+        "availableFormatCount": 0
+      }
+    ],
+    "sessionCleanup": "REST execution completed; automatic session cleanup applies; no persistent session requested."
+  },
+  "mediaRetrieved": false,
+  "nextRequiredInput": "Upload the raw MP4 and reference MP4 directly; no additional credentials are required."
+}

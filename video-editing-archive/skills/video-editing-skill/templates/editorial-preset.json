@@ -1,0 +1,75 @@
+{
+  "id": "editorial-v2",
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "libx264",
+    "crf": 18,
+    "preset": "fast",
+    "pixel_format": "yuv420p",
+    "color": "bt709",
+    "audio_codec": "aac",
+    "audio_kbps": 192,
+    "audio_hz": 48000
+  },
+  "palette": {
+    "orange": [
+      251,
+      73,
+      8
+    ],
+    "black": [
+      3,
+      3,
+      3
+    ],
+    "white": [
+      255,
+      252,
+      244
+    ],
+    "cream": [
+      237,
+      234,
+      230
+    ],
+    "ink": [
+      11,
+      12,
+      12
+    ]
+  },
+  "type": {
+    "serif": "InstrumentSerif-Regular.ttf",
+    "italic": "InstrumentSerif-Italic.ttf",
+    "sans": "Inter-Variable.ttf"
+  },
+  "safe_profiles": {
+    "mobile-conservative": [
+      0.07,
+      0.08,
+      0.88,
+      0.86
+    ],
+    "canvas-baseline": [
+      0.05,
+      0.05,
+      0.95,
+      0.94
+    ]
+  },
+  "motion": {
+    "word_reveal_seconds": 0.065,
+    "transition_seconds": 0.14,
+    "ease": "1-(1-p)^3",
+    "max_default_source_zoom": 1.04
+  },
+  "audio": {
+    "highpass_hz": 65,
+    "target_lufs": -16,
+    "voice_truepeak_target": -1.8,
+    "max_delivered_truepeak": -1.0,
+    "background_music": false
+  }
+}

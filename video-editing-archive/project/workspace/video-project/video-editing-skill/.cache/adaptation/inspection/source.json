@@ -1,0 +1,19 @@
+{
+  "sha256": "6317fe6b05408e9b3deac8ccca45dbc2218b3347d66dcfc41f3807f8c8da301c",
+  "decoded_width": 129,
+  "decoded_height": 230,
+  "fps": 30.0,
+  "video_frames": 72,
+  "video_duration": 2.4,
+  "container_duration": 2.4,
+  "audio_present": true,
+  "candidate_cuts": [],
+  "vfr_sample_ratio": 0.0,
+  "rotation_metadata": 0.0,
+  "hdr_suspected": false,
+  "notes": [
+    "Cuts are visual heuristics, not a ranking of best speech. Inspect the contact and listen to the source.",
+    "VFR detection covers at most the first 1000 frames. Investigate uncertain/variable timing before using frame-index source sampling.",
+    "Aspect/crop coordinates refer to decoded orientation; no face identity/tracking or stabilization is inferred."
+  ]
+}

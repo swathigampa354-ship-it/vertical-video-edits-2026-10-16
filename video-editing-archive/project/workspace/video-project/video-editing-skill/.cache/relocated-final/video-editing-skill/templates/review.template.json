@@ -1,0 +1,22 @@
+{
+  "instructions": "Fill only actual observations after inspecting the encoded MP4. Do not mark a perceptual review complete from a command exit code.",
+  "source_sha256": null,
+  "plan_sha256": null,
+  "output_sha256": null,
+  "profile": "editorial-v2",
+  "encoded_timestamps_inspected": [],
+  "native_size_frames_inspected": [],
+  "source_crop_and_subject_motion": null,
+  "quote_caption_meaning_and_readability": null,
+  "logo_applicable": false,
+  "logo_asset_and_clearspace": null,
+  "logo_all_frame_geometry_report": null,
+  "logo_background_change_and_motion_review": null,
+  "transitions_end_hold_and_artifacts": null,
+  "audio_verification_method": null,
+  "perceptual_listening_performed": false,
+  "machine_qc_report": null,
+  "manual_inspection_complete": false,
+  "limitations": [],
+  "decision": "NOT_REVIEWED"
+}

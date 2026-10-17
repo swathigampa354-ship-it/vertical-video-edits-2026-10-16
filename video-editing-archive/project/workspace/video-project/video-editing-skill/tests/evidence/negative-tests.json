@@ -1,0 +1,39 @@
+[
+  {
+    "test": "different source rejected",
+    "pass": true
+  },
+  {
+    "test": "out-of-safe logo detected",
+    "pass": true
+  },
+  {
+    "test": "logo/face-region collision detected",
+    "pass": true
+  },
+  {
+    "test": "timeline gap rejected",
+    "pass": true
+  },
+  {
+    "test": "moving logo late boundary crossing detected",
+    "pass": true
+  },
+  {
+    "test": "quote end boundary excludes next sentence",
+    "pass": true
+  },
+  {
+    "test": "screen logo unchanged across every pre-encode frame and background transition",
+    "frames": 90,
+    "pass": true
+  },
+  {
+    "test": "white-on-white logo rejected",
+    "pass": true
+  },
+  {
+    "test": "old/wrong-source transcript rejected",
+    "pass": true
+  }
+]

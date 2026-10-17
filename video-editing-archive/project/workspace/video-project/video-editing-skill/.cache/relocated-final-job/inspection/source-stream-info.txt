@@ -1,0 +1,22 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/examples/portrait/source.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : 15 October 2026
+    artist          : foundersDecoded_091
+    date            : 20261015
+    encoder         : Lavf61.1.100
+    comment         : https://www.youtube.com/watch?v=FcvFNbcCL98
+    genre           : People & Blogs
+  Duration: 00:00:02.40, start: 0.000000, bitrate: 588 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 202x360 [SAR 1:1 DAR 101:180], 446 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 126 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+At least one output file must be specified

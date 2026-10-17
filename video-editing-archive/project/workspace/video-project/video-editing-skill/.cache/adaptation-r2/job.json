@@ -1,0 +1,12 @@
+{
+  "source": "/home/user/video-project/video-editing-skill/.cache/adaptation-r2/portrait.mp4",
+  "source_sha256": "6317fe6b05408e9b3deac8ccca45dbc2218b3347d66dcfc41f3807f8c8da301c",
+  "plan": "/home/user/video-project/video-editing-skill/.cache/adaptation-r2/plan.json",
+  "plan_sha256": "323812126b45a3f2ac36b69d07eb68e1fc111465a75b8658b3499a435b79a87e",
+  "frames": 90,
+  "fps": 30,
+  "duration": 3.0,
+  "clip_start": 0.0,
+  "clip_duration": 2.39,
+  "logo_count": 1
+}
