@@ -1,2 +1,63 @@
-PRE-PUBLICATION RECORD
-Copies checked against original source hashes. Remote publication and the two independent verification gates have not yet been claimed. Actual receipts will be recorded after observation.
+INDEPENDENT VERIFICATION RECEIPTS
+
+Verified archive commit: 501ce7e8a0c79ff7f9a77887690752c008b919a9
+Source files included: 694
+Actual copied source paths: 777
+
+FIRST VERIFICATION — public GitHub tree and HTTPS codeload bytes, not local status
+{
+  "result": "PASS",
+  "verifiedAtUtc": "2026-10-17T06:26:40.040172+00:00",
+  "commit": "501ce7e8a0c79ff7f9a77887690752c008b919a9",
+  "method": "Unauthenticated GitHub API tree plus independently downloaded pinned HTTPS codeload ZIP; all decompressed file bytes hashed.",
+  "archive_files": 797,
+  "file_sizes_and_sha256_all_match": true,
+  "bytes_verified": 373602241,
+  "videos_retrieved_in_full": 34,
+  "lfs_pointers": [],
+  "markdown_exception_count": 61,
+  "documentation_policy_pass": true,
+  "intentional_empty_files": 2,
+  "old_remote_files_preserved": 186,
+  "download_http_status": 200,
+  "source_payload_files": 694
+}
+
+SECOND VERIFICATION — new remote clone/checkout, hashes, restoration and standalone render
+{
+  "result": "PASS",
+  "verifiedAtUtc": "2026-10-17T06:27:16.678326+00:00",
+  "commit": "501ce7e8a0c79ff7f9a77887690752c008b919a9",
+  "method": "Fresh public Git clone and pinned checkout, independent of HTTPS ZIP verification; full original expected path/size/SHA/mode comparison.",
+  "archive_files": 797,
+  "source_files_restored_byte_exact": 694,
+  "source_copy_paths": 777,
+  "all_sha256_and_modes_match": true,
+  "skill_entries_checked": 5,
+  "local_skill_links_checked": 262,
+  "documentation_policy_pass": true,
+  "lfs_pointers": [],
+  "video_paths_retrieved": 34,
+  "unique_videos_fully_decoded": 18,
+  "all_video_decodes_pass": true,
+  "video_decode_method": "Complete video decode with passthrough frames and monotonic frame-counter timestamps on a discarded verification sink only; source bytes/timestamps unchanged.",
+  "timestamp_advisory": "Original and identical archived style-reference-v2 both triggered a null-muxer DTS diagnostic; this content-decoding check does not certify original presentation timestamps.",
+  "canonical_skill_validation": "PASS",
+  "standalone_render": {
+    "machinePass": true,
+    "frames": 90,
+    "size": [
+      1080,
+      1920
+    ],
+    "voice_lag_ms": [
+      0.0,
+      -0.0625,
+      -0.0625
+    ]
+  },
+  "archive_unchanged_after_tests": true,
+  "independence_note": "Code/media/fonts/transcript/FFmpeg were read from the fresh remote archive; normal host Python scientific packages were used as declared dependencies. No original-workspace project file was needed."
+}
+
+This report records two already observed verifications of the complete source archive. A receipt-only follow-up commit updates this file/checksum manifest, then both independent checks are repeated on that final commit before cleanup. The final verification/cleanup audit is kept in protected local Git metadata and the final response, avoiding a self-referential commit-hash claim inside its own bytes.
