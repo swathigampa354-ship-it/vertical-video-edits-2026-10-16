@@ -1,0 +1,33 @@
+{
+  "profile": "editorial-v2",
+  "source_sha256": "6317fe6b05408e9b3deac8ccca45dbc2218b3347d66dcfc41f3807f8c8da301c",
+  "plan_sha256": "323812126b45a3f2ac36b69d07eb68e1fc111465a75b8658b3499a435b79a87e",
+  "output_sha256": "a2f6eadc837fba2c2c66e1114dcabcf9c9aa508862afd201d3b8252da27a623e",
+  "encoded_timestamps_inspected": [
+    0,
+    0.5,
+    1.08,
+    1.4,
+    1.88,
+    2.45
+  ],
+  "native_size_frames_inspected": [
+    0.5,
+    1.4
+  ],
+  "source_crop_and_subject_motion": "Inspected controlled active-speaker portrait crop; hair/face/mouth and relevant gesture remain appropriate, proportional video/circle fit without face stretching. This crop is a test, not a rule to remove other speakers.",
+  "quote_caption_review": "SUPER IMPORTANT. is a faithful excerpt; endpoint no longer includes the next sentence So. Stable caption slots, no initial invisible-word caret.",
+  "logo_applicable": true,
+  "logo_asset": "Synthetic TEST fixture only; not a supplied company logo.",
+  "logo_motion_review": "Mark/backing remains screen-anchored above source transforms and wipe/crossfade, across black/cream/orange. Every output frame geometry checked; invariant test compares all90 pre-encode logo crops.",
+  "transitions": "140ms crossfade/wipe inspected including transient old/new content; settled scenes clean; end hold is on graphics, not a frozen speaking face.",
+  "audio_verification": "Whole-file decode, source preservation, three non-silent correlation windows, measured loudness/true peak; no independent perceptual listening pass.",
+  "perceptual_listening_performed": false,
+  "manual_visual_inspection_complete_for_recorded_scope": true,
+  "limitations": [
+    "Controlled excerpt of same original, not arbitrary unrelated footage.",
+    "No actual second agent ID/client activation tested; filesystem relocation and standalone packaged CLI tested.",
+    "No real logo/brand approval, object tracking, HDR/VFR conversion or fresh ASR model download validated."
+  ],
+  "decision": "ACCEPT_FOR_CONTROLLED_WORKFLOW_TEST"
+}

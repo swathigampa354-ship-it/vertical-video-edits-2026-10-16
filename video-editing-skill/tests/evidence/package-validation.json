@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "filesChecked": 81,
+  "skillFormat": "Agent Skills YAML + Markdown",
+  "skillName": "video-editing-skill",
+  "skillLines": 130,
+  "localLinksChecked": 35,
+  "brokenLinks": [],
+  "pythonAstChecked": 13,
+  "exactCopiesChecked": 26,
+  "copyMismatches": [],
+  "existingWorkspace": {
+    "checked": 221,
+    "changed": []
+  },
+  "knownSecretValuesChecked": 3,
+  "secretFindings": [],
+  "zipMembersChecked": 79,
+  "errors": [],
+  "nativeClientRegistrationTested": false,
+  "note": "Structure/integrity test, not a guarantee of creative quality on a new source. Exact credential values are never printed or stored."
+}
