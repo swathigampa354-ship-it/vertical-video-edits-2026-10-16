@@ -5,13 +5,13 @@ Branch: main
 
 Original included source files: 694
 Actual source-copy paths (including canonical aliases): 777
-Archive files: 796
+Archive files: 797
 
 CATEGORIES
 audio: 22
 code: 99
 configs-and-manifests: 198
-documentation: 70
+documentation: 71
 fonts: 59
 images-and-logos: 229
 other-assets-dependencies: 24
@@ -40,6 +40,7 @@ configs/source-inventory.json
 configs/source-map.json
 documentation/exclusions.txt
 documentation/file-inventory.txt
+documentation/media-timestamp-advisory.txt
 documentation/project-context.txt
 documentation/security-scan.txt
 documentation/storage-policy.txt

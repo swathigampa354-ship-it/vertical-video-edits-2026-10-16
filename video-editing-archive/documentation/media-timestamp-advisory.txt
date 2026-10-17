@@ -1,0 +1,13 @@
+REFERENCE TIMESTAMP / VERIFIER-SINK ADVISORY
+
+Source: assets/style-reference-v2.mp4
+SHA-256: b99467aeaf8fb16ce45837acdf0d7bd1c65450b0746aac8ee67fc940aba3f0ca
+
+The initial strict second verification stopped on an additional FFmpeg null-output timestamp check. Both ORIGINAL and freshly retrieved reference exited0 but emitted:
+Application provided invalid, non monotonically increasing dts to muxer in stream0:1028 >=1028
+
+The files matched byte-for-byte. OpenCV directly decoded all1030 frames, matching its1030-frame metadata. This is not a missing upload or transfer corruption. A rawvideo sink alone still reported the same timestamp diagnostic. Adding a fixed-r output rate with passthrough was rejected as contradictory; that diagnostic attempt did not alter any file.
+
+Correct content-decoder verification uses setpts=N/(FRAME_RATE*TB) and passthrough frames on a discarded null sink. It returned exit0 and no errors for the complete reference. Only the TEST SINK time values are sequenced; no source/reference movie is repaired, resampled, replaced, omitted or deleted. This checks decoding, not whether original presentation timestamps are ideal.
+
+All34 video paths remain actual retrievable media. The first HTTP gate already passed all796 source archive files, but the second gate was not marked passed, and cleanup never started. Both independent verification methods are repeated after this verifier-only fix and advisory are pushed.
